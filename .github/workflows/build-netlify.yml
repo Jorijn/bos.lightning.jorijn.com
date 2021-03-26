@@ -1,0 +1,36 @@
+name: Build and deploy to Netlify
+
+on:
+  push:
+    branches:
+      - develop
+
+  pull_request:
+
+env:
+  IMAGE_NAME: generate-enriched-bos-list
+
+jobs:
+  push:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'push'
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Build image
+        run: docker build . --file Dockerfile --tag $IMAGE_NAME
+
+      - name: Generate the JSON
+        run: |
+          mkdir -p build
+          cp -r web/* build/
+          docker run --rm -v `pwd`/build:/app/web $IMAGE_NAME
+
+      - name: Deploy Netlify
+        uses: danakim/gh-action-deploy-netlify@v1
+        with:
+          AUTH_TOKEN: ${{ secrets.AUTH_TOKEN }}
+          SITE_ID: ${{ secrets.SITE_ID }}
+          DEPLOY_PROD: true
+
