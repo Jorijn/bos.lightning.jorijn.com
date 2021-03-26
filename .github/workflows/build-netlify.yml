@@ -9,6 +9,7 @@ on:
 
 env:
   IMAGE_NAME: generate-enriched-bos-list
+  NETLIFY_CLI_VERSION: 2.54.0
 
 jobs:
   push:
@@ -22,15 +23,19 @@ jobs:
         run: docker build . --file Dockerfile --tag $IMAGE_NAME
 
       - name: Generate the JSON
+        env:
+          SITE_ID: ${{ secrets.SITE_ID }}
+          AUTH_TOKEN: ${{ secrets.AUTH_TOKEN }}
         run: |
           mkdir -p build
           cp -r web/* build/
           docker run --rm -v `pwd`/build:/app/web $IMAGE_NAME
+#          docker run --rm -v `pwd`/build:/app/web opennms/netlify-cli:${NETLIFY_CLI_VERSION} netlify deploy --prod --dir /app/web --site=${SITE_ID} --auth=${AUTH_TOKEN} --timeout=600 --message "Deployed on $(date)"
 
-      - name: Deploy Netlify
-        uses: danakim/gh-action-deploy-netlify@v1
+      - name: Publish to Netlify
+        uses: netlify/actions/cli@master
         with:
-          AUTH_TOKEN: ${{ secrets.AUTH_TOKEN }}
-          SITE_ID: ${{ secrets.SITE_ID }}
-          DEPLOY_PROD: true
-
+          args: deploy --dir=build
+        env:
+          NETLIFY_SITE_ID: ${{ secrets.SITE_ID }}
+          NETLIFY_AUTH_TOKEN: ${{ secrets.AUTH_TOKEN }}
