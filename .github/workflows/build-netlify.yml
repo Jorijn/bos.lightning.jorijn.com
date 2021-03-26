@@ -1,41 +1,33 @@
 name: Build and deploy to Netlify
 
 on:
-  push:
-    branches:
-      - develop
-
-  pull_request:
+  schedule:
+    - cron: "0 8,20 * * *"
 
 env:
   IMAGE_NAME: generate-enriched-bos-list
   NETLIFY_CLI_VERSION: 2.54.0
 
 jobs:
-  push:
+  build:
     runs-on: ubuntu-latest
-    if: github.event_name == 'push'
 
     steps:
       - uses: actions/checkout@v2
 
-      - name: Build image
+      - name: Build the Golang file
         run: docker build . --file Dockerfile --tag $IMAGE_NAME
 
-      - name: Generate the JSON
-        env:
-          SITE_ID: ${{ secrets.SITE_ID }}
-          AUTH_TOKEN: ${{ secrets.AUTH_TOKEN }}
+      - name: Generate the JSON (+ copy web files)
         run: |
           mkdir -p build
           cp -r web/* build/
           docker run --rm -v `pwd`/build:/app/web $IMAGE_NAME
-#          docker run --rm -v `pwd`/build:/app/web opennms/netlify-cli:${NETLIFY_CLI_VERSION} netlify deploy --prod --dir /app/web --site=${SITE_ID} --auth=${AUTH_TOKEN} --timeout=600 --message "Deployed on $(date)"
 
       - name: Publish to Netlify
         uses: netlify/actions/cli@master
         with:
-          args: deploy --dir=build
+          args: deploy --dir=build --prod
         env:
           NETLIFY_SITE_ID: ${{ secrets.SITE_ID }}
           NETLIFY_AUTH_TOKEN: ${{ secrets.AUTH_TOKEN }}
