@@ -1,0 +1,4622 @@
+{
+  "lastUpdated": "2021-03-26T13:12:45+0100",
+  "data": [
+    {
+      "score": 13043478,
+      "alias": "Kortik nodl [LND]",
+      "publicKey": "0200da31ae309a42f955de9383c150a4167246bb22d5380898cd70aecc59136c50",
+      "addresses": [
+        "2cl6pbc7dzopfnjmpzdmw3pnh36tqsam7zzp7ypp3v5fujwjllcfjoad.onion:9735"
+      ],
+      "color": "#0000ff",
+      "capacity": 59164109,
+      "channelCount": 28,
+      "rankCapacity": 397,
+      "rankChannelCount": 413,
+      "rankAge": 2916,
+      "rankGrowth": 1138,
+      "rankAvailability": 489
+    },
+    {
+      "score": 26086956,
+      "alias": "The Captain [Coincept.com]",
+      "publicKey": "0202e7727ee46d943a44c7bf0dce14220a839630dee67d03446bf935178b55a0df",
+      "addresses": [
+        "167.86.102.174:9735"
+      ],
+      "color": "#ff0000",
+      "capacity": 503122659,
+      "channelCount": 63,
+      "rankCapacity": 84,
+      "rankChannelCount": 173,
+      "rankAge": 4774,
+      "rankGrowth": 184,
+      "rankAvailability": 615
+    },
+    {
+      "score": 17391304,
+      "alias": "t0mix",
+      "publicKey": "0214ec84c84827dd4911de56d2ecb77d367c6f24c658b8acfe4826b01968e45594",
+      "addresses": [
+        "78.141.123.99:9735",
+        "pannekn3ue5nggrflg5d6jcvrxmssu4awfeq5rx6qwzxofji54m5tuid.onion:9735",
+        "wq4avxag2jpt24wt5g246pihzw6wdb2wpp6p6bkfyvivezvgu6rltwyd.onion:9735"
+      ],
+      "color": "#ff00ff",
+      "capacity": 49881513,
+      "channelCount": 15,
+      "rankCapacity": 466,
+      "rankChannelCount": 794,
+      "rankAge": 2044,
+      "rankGrowth": 3021,
+      "rankAvailability": 5898
+    },
+    {
+      "score": 8695652,
+      "alias": "JapanLightningHub",
+      "publicKey": "0215a1e4e0ebb5a018b6e9776e7340b4137d083df5eefd75192e5f9fb4d316cb81",
+      "addresses": [
+        "153.127.253.91:9735"
+      ],
+      "color": "#fefdbc",
+      "capacity": 81329744,
+      "channelCount": 20,
+      "rankCapacity": 329,
+      "rankChannelCount": 606,
+      "rankAge": 8113,
+      "rankGrowth": 9828,
+      "rankAvailability": 410
+    },
+    {
+      "score": 8695652,
+      "alias": "Emzy lnd node",
+      "publicKey": "0215bea618806194ad88b80de8bc11c6391edb2fa1beeea6174305856596faeee8",
+      "addresses": [
+        "62.171.129.32:9735",
+        "cfgc2ij2zphlbjexi4ztyso6ptjlmus65ctijxtngykx3ws6slnfddid.onion:9735"
+      ],
+      "color": "#ff99ff",
+      "capacity": 114873109,
+      "channelCount": 61,
+      "rankCapacity": 250,
+      "rankChannelCount": 177,
+      "rankAge": 1267,
+      "rankGrowth": 528,
+      "rankAvailability": 463
+    },
+    {
+      "score": 13043478,
+      "alias": "highway",
+      "publicKey": "0209faa30755c89418d396f31e4395df51cc79b72890e1fc02de1fdde1448cebc4",
+      "addresses": [
+        "90.157.197.166:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 65156290,
+      "channelCount": 23,
+      "rankCapacity": 377,
+      "rankChannelCount": 519,
+      "rankAge": 6040,
+      "rankGrowth": 345,
+      "rankAvailability": 816
+    },
+    {
+      "score": 69565217,
+      "alias": "WalletOfSatoshi.com [2]",
+      "publicKey": "02004c625d622245606a1ea2c1c69cfb4516b703b47945a3647713c05fe4aaeb1c",
+      "addresses": [
+        "172.81.178.151:9735",
+        "yocrhxpg2hkof6xeaz4zsjtwmbbcu6xvwvb7dazf2lkbslwylkqzrwad.onion:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 1980481011,
+      "channelCount": 700,
+      "rankCapacity": 21,
+      "rankChannelCount": 8,
+      "rankAge": 1809,
+      "rankGrowth": 15,
+      "rankAvailability": 19
+    },
+    {
+      "score": 13043478,
+      "alias": "clight1",
+      "publicKey": "021f98b9898720f8633c93faf0aa54ab399d277464e502d1111b233c2cf4064828",
+      "addresses": [
+        "k62xgb3ee7uy7urir62fqljshlo3564ubszzkws225y2euwfn5ibi3id.onion:9735"
+      ],
+      "color": "#021f98",
+      "capacity": 51776871,
+      "channelCount": 14,
+      "rankCapacity": 448,
+      "rankChannelCount": 890,
+      "rankAge": 4772,
+      "rankGrowth": 5316,
+      "rankAvailability": 5652
+    },
+    {
+      "score": 17391304,
+      "alias": "2theMoon",
+      "publicKey": "0219426a5b641ed05ee639bfda80c1e0199182944977686d1dd1ea2dcb89e5dd55",
+      "addresses": [
+        "m76pvlfscnfka2f62ltt4uvx3kjwualz5rjoqpzhm4segdlhellta4id.onion:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 106128585,
+      "channelCount": 40,
+      "rankCapacity": 264,
+      "rankChannelCount": 281,
+      "rankAge": 4819,
+      "rankGrowth": 9616,
+      "rankAvailability": 1216
+    },
+    {
+      "score": 13043478,
+      "alias": "Coincards",
+      "publicKey": "02233a3b30d7c8b08542eefe66978e45d2962ed21e857ce33ea1452b5b90173d77",
+      "addresses": [
+        "54.39.133.223:9735",
+        "di75hdinhyvgskx72ms2gwmyw5x52axotprihm2l6ajh6mzg76hbzcad.onion:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 351375414,
+      "channelCount": 74,
+      "rankCapacity": 104,
+      "rankChannelCount": 142,
+      "rankAge": 3545,
+      "rankGrowth": 148,
+      "rankAvailability": 171
+    },
+    {
+      "score": 8695652,
+      "alias": "lndwr1.zaphq.io",
+      "publicKey": "020c0de8caf81b594d9426549fc25c4aba32891f61ea86abc3337eef98f79b4c2a",
+      "addresses": [
+        "35.237.227.133:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 62500000,
+      "channelCount": 15,
+      "rankCapacity": 385,
+      "rankChannelCount": 846,
+      "rankAge": 8944,
+      "rankGrowth": 496,
+      "rankAvailability": 1566
+    },
+    {
+      "score": 8695652,
+      "alias": "Exegol",
+      "publicKey": "0211c8eac4e9cd6d77de17320042107d3a146a57c430836779b8046e0e867d0e3c",
+      "addresses": [
+        "xxovxm3yxlquf66ztwmjknfsmmqpznafkq7ylm23rmthlulq6uvgjwid.onion:9735"
+      ],
+      "color": "#68f442",
+      "capacity": 37110000,
+      "channelCount": 13,
+      "rankCapacity": 570,
+      "rankChannelCount": 994,
+      "rankAge": 7281,
+      "rankGrowth": 7429,
+      "rankAvailability": 1026
+    },
+    {
+      "score": 21739130,
+      "alias": "Pluke",
+      "publicKey": "020a9442b1daee87f771203cf78e1d6c1468f525ecc1a8fde027bd20582b8f6962",
+      "addresses": [
+        "qvrx4xcynumgqyjf.onion:9735",
+        "uadjs4rnvn6xv5fxjas32zdjqwzzft4tupl75w5zrrmxj6xdmfdqgsqd.onion:9735"
+      ],
+      "color": "#020a94",
+      "capacity": 29959573,
+      "channelCount": 12,
+      "rankCapacity": 651,
+      "rankChannelCount": 1049,
+      "rankAge": 3663,
+      "rankGrowth": 9609,
+      "rankAvailability": 5642
+    },
+    {
+      "score": 30434782,
+      "alias": "ln.BitSoapBox.com",
+      "publicKey": "021607cfce19a4c5e7e6e738663dfafbbbac262e4ff76c2c9b30dbeefc35c00643",
+      "addresses": [
+        "95.217.34.109:9735"
+      ],
+      "color": "#5f04c0",
+      "capacity": 691384970,
+      "channelCount": 337,
+      "rankCapacity": 66,
+      "rankChannelCount": 24,
+      "rankAge": 1994,
+      "rankGrowth": 605,
+      "rankAvailability": 86
+    },
+    {
+      "score": 8695652,
+      "alias": "LN-Fukaya Japan 020c92d71dfe47d4",
+      "publicKey": "020c92d71dfe47d49d322eed910064787973dff96c05a39d75a75d7e8f33aead4c",
+      "addresses": [
+        "106.163.158.127:9735"
+      ],
+      "color": "#f0fff0",
+      "capacity": 311108083,
+      "channelCount": 273,
+      "rankCapacity": 111,
+      "rankChannelCount": 40,
+      "rankAge": 2824,
+      "rankGrowth": 4,
+      "rankAvailability": 91
+    },
+    {
+      "score": 8695652,
+      "alias": " KONTIKI",
+      "publicKey": "0213c1c382938ec1baeeb71671be63d29d25e867e1b7c071468dd2acea4456851e",
+      "addresses": [
+        "94.130.131.239:9735"
+      ],
+      "color": "#cc0066",
+      "capacity": 240451892,
+      "channelCount": 19,
+      "rankCapacity": 144,
+      "rankChannelCount": 642,
+      "rankAge": 4891,
+      "rankGrowth": 9327,
+      "rankAvailability": 4033
+    },
+    {
+      "score": 69565217,
+      "alias": "LNBIG.com [lnd-26]",
+      "publicKey": "02247d9db0dfafea745ef8c9e161eb322f73ac3f8858d8730b6fd97254747ce76b",
+      "addresses": [
+        "213.174.156.70:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 1794358039,
+      "channelCount": 289,
+      "rankCapacity": 29,
+      "rankChannelCount": 32,
+      "rankAge": 1941,
+      "rankGrowth": 9994,
+      "rankAvailability": 177
+    },
+    {
+      "score": 100000000,
+      "alias": "LNBIG.com [lnd-37]",
+      "publicKey": "022c260f9ad58196af280c80a96ec9eabf6404df59ff1a7553b0f381c875a29ba0",
+      "addresses": [
+        "213.174.156.81:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 1848842774,
+      "channelCount": 275,
+      "rankCapacity": 25,
+      "rankChannelCount": 39,
+      "rankAge": 1943,
+      "rankGrowth": 9976,
+      "rankAvailability": 156
+    },
+    {
+      "score": 8695652,
+      "alias": "GloBee.com",
+      "publicKey": "022c699df736064b51a33017abfc4d577d133f7124ac117d3d9f9633b6297a3b6a",
+      "addresses": [
+        "46.4.33.195:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 341232433,
+      "channelCount": 141,
+      "rankCapacity": 105,
+      "rankChannelCount": 79,
+      "rankAge": 1340,
+      "rankGrowth": 9332,
+      "rankAvailability": 307
+    },
+    {
+      "score": 8695652,
+      "alias": "Flow",
+      "publicKey": "0226516cde5cd8076a3c3534fcf6c5f48d921f764a699c7f18d76348ee76b8520c",
+      "addresses": [
+        "yn3xj3pztpcaqsjozkscsgntpgmvu6sujzzdwnozer3svat5chvv6yyd.onion:9735"
+      ],
+      "color": "#76eec6",
+      "capacity": 334625393,
+      "channelCount": 32,
+      "rankCapacity": 107,
+      "rankChannelCount": 360,
+      "rankAge": 6093,
+      "rankGrowth": 9899,
+      "rankAvailability": 922
+    },
+    {
+      "score": 13043478,
+      "alias": "RoutingHub⚡",
+      "publicKey": "0239e4dc85543cd84b712850072dc5e1bf0190c44b64dbe822581013f849a794a4",
+      "addresses": [
+        "aau33wqn5ibqp63h5syfyptsjlqti5nkeikjawwzgpfd25o6nm7cefid.onion:9735"
+      ],
+      "color": "#4126a7",
+      "capacity": 103955160,
+      "channelCount": 47,
+      "rankCapacity": 272,
+      "rankChannelCount": 253,
+      "rankAge": 7578,
+      "rankGrowth": 7696,
+      "rankAvailability": 353
+    },
+    {
+      "score": 13043478,
+      "alias": "Arkhams_Coin_Cultists",
+      "publicKey": "022b213281fad5065c66ed53a53198a04b4cb528ce92d76ed0175471b93f1db74f",
+      "addresses": [
+        "195.14.193.167:9735"
+      ],
+      "color": "#ff3333",
+      "capacity": 57991192,
+      "channelCount": 31,
+      "rankCapacity": 405,
+      "rankChannelCount": 371,
+      "rankAge": 3215,
+      "rankGrowth": 4003,
+      "rankAvailability": 1034
+    },
+    {
+      "score": 100000000,
+      "alias": "LNBIG.com [lnd-34]",
+      "publicKey": "022755c3ff4e5a1d71f573cda4b315887fc00a9e5c9ea9a847d939f3e517e69a70",
+      "addresses": [
+        "213.174.156.78:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 1486284883,
+      "channelCount": 278,
+      "rankCapacity": 46,
+      "rankChannelCount": 38,
+      "rankAge": 1944,
+      "rankGrowth": 9978,
+      "rankAvailability": 109
+    },
+    {
+      "score": 8695652,
+      "alias": "BitKassa LN34961 [LND]",
+      "publicKey": "0231eccc6510eb2e1c97c8a190d6ea096784aa7c358355442055aac8b20654f932",
+      "addresses": [
+        "77.167.245.239:9735"
+      ],
+      "color": "#7423cd",
+      "capacity": 253597429,
+      "channelCount": 125,
+      "rankCapacity": 133,
+      "rankChannelCount": 83,
+      "rankAge": 3015,
+      "rankGrowth": 174,
+      "rankAvailability": 216
+    },
+    {
+      "score": 8695652,
+      "alias": "1.ln.aantonop.com",
+      "publicKey": "0237fefbe8626bf888de0cad8c73630e32746a22a2c4faa91c1d9877a3826e1174",
+      "addresses": [
+        "13.48.89.186:9735"
+      ],
+      "color": "#010000",
+      "capacity": 362591539,
+      "channelCount": 176,
+      "rankCapacity": 101,
+      "rankChannelCount": 65,
+      "rankAge": 1413,
+      "rankGrowth": 253,
+      "rankAvailability": 187
+    },
+    {
+      "score": 8695652,
+      "alias": "Lightning-Bukowski",
+      "publicKey": "0231802089629c66c1fe76da7e161ae50143940c1fe4e10b5252a5c77f4f9e2397",
+      "addresses": [
+        "suxgvbllvsarbchz3tycqgzhgvhrfsnykatmn3vqnjhfscc7obatftid.onion:9735"
+      ],
+      "color": "#0000ff",
+      "capacity": 48979451,
+      "channelCount": 20,
+      "rankCapacity": 472,
+      "rankChannelCount": 597,
+      "rankAge": 5743,
+      "rankGrowth": 6126,
+      "rankAvailability": 1232
+    },
+    {
+      "score": 13043478,
+      "alias": "ABCLightning.io",
+      "publicKey": "022f3bfa1de8491bad95ea018b17d47efbfe713cd2da59ad5fc380198612b8954a",
+      "addresses": [
+        "37.97.191.18:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 113834741,
+      "channelCount": 61,
+      "rankCapacity": 252,
+      "rankChannelCount": 178,
+      "rankAge": 2479,
+      "rankGrowth": 280,
+      "rankAvailability": 438
+    },
+    {
+      "score": 8695652,
+      "alias": "MerchantConnectHUB",
+      "publicKey": "023e09c43b215bd3dbf483bcb409da3322ea5ea3b046f74698b89ee9ea785dd30a",
+      "addresses": [
+        "218.214.92.61:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 155152904,
+      "channelCount": 41,
+      "rankCapacity": 200,
+      "rankChannelCount": 278,
+      "rankAge": 5986,
+      "rankGrowth": 45,
+      "rankAvailability": 147
+    },
+    {
+      "score": 8695652,
+      "alias": "medea",
+      "publicKey": "02398b614028892474fc95ed64c48791f994975042d0bd7e9592d0ec4128bbace4",
+      "addresses": [
+        "163.172.61.48:9736",
+        "[2001:bc8:3bec:100::1]:9736",
+        "midbdlknuz3nrtkzohgxyqpntyokblbzdzrswkjvptebdh3ogdpcuwyd.onion:9736"
+      ],
+      "color": "#600050",
+      "capacity": 84735509,
+      "channelCount": 33,
+      "rankCapacity": 315,
+      "rankChannelCount": 342,
+      "rankAge": 1689,
+      "rankGrowth": 9599,
+      "rankAvailability": 4777
+    },
+    {
+      "score": 8695652,
+      "alias": "zerobps",
+      "publicKey": "02309f3556d51e9d855594762dcf68cb283fbfd7e48618b6cecb8cd90e2e34d8ad",
+      "addresses": [
+        "79.62.233.36:9735"
+      ],
+      "color": "#ff8819",
+      "capacity": 83065492,
+      "channelCount": 38,
+      "rankCapacity": 318,
+      "rankChannelCount": 292,
+      "rankAge": 1780,
+      "rankGrowth": 2819,
+      "rankAvailability": 923
+    },
+    {
+      "score": 13043478,
+      "alias": "BTCPay BillPay",
+      "publicKey": "0234227bdcd0361622f39447f961618480e7347ab1cfe6e74f561b976135343b31",
+      "addresses": [
+        "170.75.164.148:9735",
+        "s5lqapiz475gh2c4uteki3ftth6az3wt7tqrwxhgks7cvicniqfyffid.onion:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 241097040,
+      "channelCount": 56,
+      "rankCapacity": 142,
+      "rankChannelCount": 197,
+      "rankAge": 6403,
+      "rankGrowth": 513,
+      "rankAvailability": 217
+    },
+    {
+      "score": 8695652,
+      "alias": "PuzzleITC [Lightning BeerTap]",
+      "publicKey": "0234c548106512a0b93b2555d2638bc2fed3e6b091f75298383356258996230d92",
+      "addresses": [
+        "5.102.146.99:9735"
+      ],
+      "color": "#1e5a96",
+      "capacity": 77703806,
+      "channelCount": 51,
+      "rankCapacity": 335,
+      "rankChannelCount": 229,
+      "rankAge": 1276,
+      "rankGrowth": 9852,
+      "rankAvailability": 3336
+    },
+    {
+      "score": 8695652,
+      "alias": "lndwr0.zaphq.io",
+      "publicKey": "023dff2a4301df8142a44d30606f0f2173e6dab0d297a412bda2e5c289ee30ae3c",
+      "addresses": [
+        "35.227.127.15:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 75000000,
+      "channelCount": 15,
+      "rankCapacity": 344,
+      "rankChannelCount": 845,
+      "rankAge": 8943,
+      "rankGrowth": 495,
+      "rankAvailability": 751
+    },
+    {
+      "score": 13043478,
+      "alias": "Moon_Base",
+      "publicKey": "024509d6321a579b3f72117509e243d6cdd86874cb0731ff39be6c92f3e64b53a1",
+      "addresses": [
+        "capyrqqkmrfdjcq7.onion:1234",
+        "gzac4gwvf7lgxtvgmyhji2yhoakzjwc3x4asrvwqrnrz27ipkjk4ecyd.onion:1234"
+      ],
+      "color": "#024509",
+      "capacity": 30363308,
+      "channelCount": 12,
+      "rankCapacity": 644,
+      "rankChannelCount": 1015,
+      "rankAge": 1354,
+      "rankGrowth": 2456,
+      "rankAvailability": 5951
+    },
+    {
+      "score": 8695652,
+      "alias": "Luna",
+      "publicKey": "02439112f98b6f4828e1a7426bfbece166bd36837d7dea4225a75ebd1d96864a07",
+      "addresses": [
+        "82.64.49.27:9735",
+        "[2a01:e0a:252:6bd0::2]:9735"
+      ],
+      "color": "#0c4add",
+      "capacity": 212340204,
+      "channelCount": 72,
+      "rankCapacity": 156,
+      "rankChannelCount": 148,
+      "rankAge": 6318,
+      "rankGrowth": 354,
+      "rankAvailability": 4580
+    },
+    {
+      "score": 8695652,
+      "alias": "gandalf.cash",
+      "publicKey": "024537120d82069420ff73c1beeb133797a77172f5b8510a8cf9d3f3d8945be42d",
+      "addresses": [
+        "173.48.157.250:9735",
+        "b57rizfhpgmypiafqdpnspj756yp3hiawswt5k34pqnzpvx7tju6yrad.onion:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 124393777,
+      "channelCount": 49,
+      "rankCapacity": 235,
+      "rankChannelCount": 240,
+      "rankAge": 7807,
+      "rankGrowth": 307,
+      "rankAvailability": 172
+    },
+    {
+      "score": 8695652,
+      "alias": "setmid",
+      "publicKey": "024d07b3408c35e03983f6a6c02d3e70c14f5a00ebc49c395342aee6e64d02fe41",
+      "addresses": [
+        "89.212.162.6:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 280638236,
+      "channelCount": 30,
+      "rankCapacity": 121,
+      "rankChannelCount": 394,
+      "rankAge": 5951,
+      "rankGrowth": 156,
+      "rankAvailability": 255
+    },
+    {
+      "score": 8695652,
+      "alias": "lndeu1.zaphq.io",
+      "publicKey": "024c2804815582a504c466a90e11f30ff800e108fd691274faf6f026a12d0ab976",
+      "addresses": [
+        "104.196.66.107:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 50000000,
+      "channelCount": 14,
+      "rankCapacity": 464,
+      "rankChannelCount": 927,
+      "rankAge": 8404,
+      "rankGrowth": 8376,
+      "rankAvailability": 1046
+    },
+    {
+      "score": 13043478,
+      "alias": "🚀🌑 BOLTENING.club",
+      "publicKey": "02529db69fd2ebd3126fb66fafa234fc3544477a23d509fe93ed229bb0e92e4fb8",
+      "addresses": [
+        "62.210.167.199:9735",
+        "qk2ealuaxlfvwd3j.onion:9735",
+        "pinnqmvunxzeggwp2ubmlrpo3janirp2ls2aiyc4priq66r45ivxhtid.onion:9735"
+      ],
+      "color": "#4286f5",
+      "capacity": 540915748,
+      "channelCount": 240,
+      "rankCapacity": 78,
+      "rankChannelCount": 49,
+      "rankAge": 783,
+      "rankGrowth": 9949,
+      "rankAvailability": 272
+    },
+    {
+      "score": 17391304,
+      "alias": "hmmmstrange",
+      "publicKey": "02445ff6a24e69242d6f6f38e1b7e8ae9c01eb9b660f3daf3304cb4b7cfeb79a99",
+      "addresses": [
+        "45.50.46.221:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 172121012,
+      "channelCount": 87,
+      "rankCapacity": 184,
+      "rankChannelCount": 119,
+      "rankAge": 1265,
+      "rankGrowth": 204,
+      "rankAvailability": 623
+    },
+    {
+      "score": 100000000,
+      "alias": "LNBIG.com [lnd-38]",
+      "publicKey": "024d2387409269f3b79e2708bb39b895c9f4b6a8322153af54eba487d4993bf60f",
+      "addresses": [
+        "213.174.156.82:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 1646996967,
+      "channelCount": 246,
+      "rankCapacity": 36,
+      "rankChannelCount": 46,
+      "rankAge": 1940,
+      "rankGrowth": 9982,
+      "rankAvailability": 271
+    },
+    {
+      "score": 21739130,
+      "alias": "peartree",
+      "publicKey": "02537e3176a9140eadf4e297ff482290fba471ba08c2107a0bc36873f8b389c463",
+      "addresses": [
+        "kkokoi5ifrkjzksrfuwemo26n4hsnjtrnmffsjnfchg3ozeu23etdxad.onion:9735"
+      ],
+      "color": "#68f442",
+      "capacity": 122852582,
+      "channelCount": 47,
+      "rankCapacity": 241,
+      "rankChannelCount": 251,
+      "rankAge": 4421,
+      "rankGrowth": 5017,
+      "rankAvailability": 753
+    },
+    {
+      "score": 39130434,
+      "alias": "node01.fulmo.org",
+      "publicKey": "024a8228d764091fce2ed67e1a7404f83e38ea3c7cb42030a2789e73cf3b341365",
+      "addresses": [
+        "95.211.207.81:9735"
+      ],
+      "color": "#f2f3f4",
+      "capacity": 691255919,
+      "channelCount": 148,
+      "rankCapacity": 67,
+      "rankChannelCount": 73,
+      "rankAge": 919,
+      "rankGrowth": 100,
+      "rankAvailability": 308
+    },
+    {
+      "score": 13043478,
+      "alias": "LogansRun",
+      "publicKey": "024794d1446e510c75f84bbd75cc151124522aed03ad75a20f1708f77e5f3e674a",
+      "addresses": [
+        "91.193.4.136:9008"
+      ],
+      "color": "#b000b5",
+      "capacity": 51497654,
+      "channelCount": 33,
+      "rankCapacity": 451,
+      "rankChannelCount": 344,
+      "rankAge": 2862,
+      "rankGrowth": 552,
+      "rankAvailability": 1045
+    },
+    {
+      "score": 13043478,
+      "alias": "Listener",
+      "publicKey": "025440bf7dc82e2b5cc06105dee320dfc60d10b593e52aa8e97cd43db920e79058",
+      "addresses": [
+        "w5vevrywvswmbxz45iskuv4jivo4sthnpheak2l6r6jfvycbfp7imjqd.onion:9735"
+      ],
+      "color": "#68f442",
+      "capacity": 27324998,
+      "channelCount": 12,
+      "rankCapacity": 688,
+      "rankChannelCount": 1070,
+      "rankAge": 5626,
+      "rankGrowth": 6021,
+      "rankAvailability": 532
+    },
+    {
+      "score": 8695652,
+      "alias": "Moon (paywithmoon.com)",
+      "publicKey": "025f1456582e70c4c06b61d5c8ed3ce229e6d0db538be337a2dc6d163b0ebc05a5",
+      "addresses": [
+        "52.86.210.65:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 371237121,
+      "channelCount": 76,
+      "rankCapacity": 98,
+      "rankChannelCount": 139,
+      "rankAge": 4319,
+      "rankGrowth": 37,
+      "rankAvailability": 45
+    },
+    {
+      "score": 17391304,
+      "alias": "oxbase.com",
+      "publicKey": "025176c4be908ee06946c27991949391e50af961328469772dd04aead0f951f1cd",
+      "addresses": [
+        "172.81.177.53:9735",
+        "fyhmfhrcaezrptl6f52gfkxpbykl62pag6kyycwgmskeyynmbtq5m5id.onion:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 104049117,
+      "channelCount": 21,
+      "rankCapacity": 271,
+      "rankChannelCount": 561,
+      "rankAge": 4657,
+      "rankGrowth": 9336,
+      "rankAvailability": 439
+    },
+    {
+      "score": 78260869,
+      "alias": "Blockdaemon",
+      "publicKey": "02572c2e1b43a78bb060e7d322b033443efc0d8d60fc2b111dd8bb999aa940d1f5",
+      "addresses": [
+        "3.124.38.47:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 1049614407,
+      "channelCount": 93,
+      "rankCapacity": 55,
+      "rankChannelCount": 109,
+      "rankAge": 4341,
+      "rankGrowth": 10,
+      "rankAvailability": 173
+    },
+    {
+      "score": 17391304,
+      "alias": "5731 ft above sea level (1637m)",
+      "publicKey": "025898908ba87918c1db427e0303071914a405c1dd810c97fefeca852dac7e80b4",
+      "addresses": [
+        "73.217.79.105:9735",
+        "64ot34bjjrmliyafmjmcnxtggf6h65z2pgtonxzlarhjvcmfhkhqcbqd.onion:9735"
+      ],
+      "color": "#ff33ff",
+      "capacity": 73749670,
+      "channelCount": 28,
+      "rankCapacity": 347,
+      "rankChannelCount": 416,
+      "rankAge": 3779,
+      "rankGrowth": 9901,
+      "rankAvailability": 1051
+    },
+    {
+      "score": 100000000,
+      "alias": "southxchange.com",
+      "publicKey": "0260fab633066ed7b1d9b9b8a0fac87e1579d1709e874d28a0d171a1f5c43bb877",
+      "addresses": [
+        "54.188.46.182:9735"
+      ],
+      "color": "#00ff00",
+      "capacity": 4254106555,
+      "channelCount": 394,
+      "rankCapacity": 5,
+      "rankChannelCount": 17,
+      "rankAge": 1561,
+      "rankGrowth": 19,
+      "rankAvailability": 41
+    },
+    {
+      "score": 13043478,
+      "alias": "🔒Satoshi's World NL",
+      "publicKey": "0266ad254117f16f16c3457e081e6207e91c5e414477a208cf4d9c633322799038",
+      "addresses": [
+        "89.99.0.111:9735"
+      ],
+      "color": "#ffffff",
+      "capacity": 95472497,
+      "channelCount": 42,
+      "rankCapacity": 282,
+      "rankChannelCount": 272,
+      "rankAge": 3084,
+      "rankGrowth": 510,
+      "rankAvailability": 467
+    },
+    {
+      "score": 8695652,
+      "alias": "boxxy.network",
+      "publicKey": "0269b91661812bae52280a68eec2b89d38bf26b33966441ad70aa365e120a125ff",
+      "addresses": [
+        "qe5lvu5g72s7edly4xu4gon3qbx7xca2fnfutifvfptr5lv2xrt4doid.onion:9735"
+      ],
+      "color": "#68f442",
+      "capacity": 110376322,
+      "channelCount": 54,
+      "rankCapacity": 255,
+      "rankChannelCount": 206,
+      "rankAge": 798,
+      "rankGrowth": 1930,
+      "rankAvailability": 1271
+    },
+    {
+      "score": 8695652,
+      "alias": "WhySoSerious",
+      "publicKey": "026726a4b043d413b45b334876d17b8a98848129604429ec65532ba286a42efeac",
+      "addresses": [
+        "91.121.133.13:9735",
+        "[2001:41d0:1:b40d::1]:9735"
+      ],
+      "color": "#ff0000",
+      "capacity": 122162074,
+      "channelCount": 32,
+      "rankCapacity": 243,
+      "rankChannelCount": 354,
+      "rankAge": 900,
+      "rankGrowth": 9730,
+      "rankAvailability": 1268
+    },
+    {
+      "score": 21739130,
+      "alias": "electrolyte.lytnen.net",
+      "publicKey": "02731b798b39a09f9f14e90ee601afb6ebb796d6e5797de14582a978770b33700f",
+      "addresses": [
+        "172.105.98.46:9736",
+        "[2600:3c04::f03c:92ff:fed8:1fe1]:9736"
+      ],
+      "color": "#f7f6bf",
+      "capacity": 405528165,
+      "channelCount": 122,
+      "rankCapacity": 92,
+      "rankChannelCount": 84,
+      "rankAge": 1870,
+      "rankGrowth": 9934,
+      "rankAvailability": 758
+    },
+    {
+      "score": 30434782,
+      "alias": "Boltz",
+      "publicKey": "026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2",
+      "addresses": [
+        "104.196.200.39:9735",
+        "d7kak4gpnbamm3b4ufq54aatgm3alhx3jwmu6kyy2bgjaauinkipz3id.onion:9735"
+      ],
+      "color": "#ff9800",
+      "capacity": 1132858480,
+      "channelCount": 257,
+      "rankCapacity": 53,
+      "rankChannelCount": 44,
+      "rankAge": 2792,
+      "rankGrowth": 30,
+      "rankAvailability": 57
+    },
+    {
+      "score": 8695652,
+      "alias": "cryptoconomy.btcpay",
+      "publicKey": "0269ddea4ab7066b0928804c8473cbdd3bd7cf454f083bde54ab748a4b00f60bad",
+      "addresses": [
+        "172.81.183.14:9735",
+        "ltfuws4ghl2guxlvdxrmn2qu4o6cqpehrehje2fnkjsigd6r6uh7kaid.onion:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 32027008,
+      "channelCount": 17,
+      "rankCapacity": 623,
+      "rankChannelCount": 720,
+      "rankAge": 5254,
+      "rankGrowth": 5708,
+      "rankAvailability": 1056
+    },
+    {
+      "score": 39130434,
+      "alias": "lnd1",
+      "publicKey": "02651fa5f3f6676c6f13d88b3ffd3101421cd3bd1773d4af92242c46f0f902ef39",
+      "addresses": [
+        "jjqi3vrd7hpzv2oitr3i7rknbubxmeagpn7ihmydmoc33u6lphrrwjid.onion:9735"
+      ],
+      "color": "#68f442",
+      "capacity": 528902699,
+      "channelCount": 76,
+      "rankCapacity": 80,
+      "rankChannelCount": 138,
+      "rankAge": 3707,
+      "rankGrowth": 172,
+      "rankAvailability": 389
+    },
+    {
+      "score": 8695652,
+      "alias": "ZIPPYD",
+      "publicKey": "026b73b3ff65200026db80c580fa5004e79db4e13cffbcdd37cbff84bd5e16bfcd",
+      "addresses": [
+        "o5h6kebtalvaah5branavxymktiuok6qyqzbaoxeohhabkovmmddfwid.onion:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 67840717,
+      "channelCount": 36,
+      "rankCapacity": 367,
+      "rankChannelCount": 305,
+      "rankAge": 3032,
+      "rankGrowth": 9663,
+      "rankAvailability": 3349
+    },
+    {
+      "score": 8695652,
+      "alias": "Project_Dreamweaver",
+      "publicKey": "0277b90db8ab47f5cc1dc8e608b06b9d767e3bb337c3882194f42ea6b044e5eec3",
+      "addresses": [
+        "qwefhuyy7lybsyat372zeifkmv63in7ipheozqa2okozysjhmadhfwyd.onion:9735"
+      ],
+      "color": "#68f442",
+      "capacity": 20493713,
+      "channelCount": 15,
+      "rankCapacity": 821,
+      "rankChannelCount": 819,
+      "rankAge": 5850,
+      "rankGrowth": 585,
+      "rankAvailability": 1690
+    },
+    {
+      "score": 8695652,
+      "alias": "fair.poker",
+      "publicKey": "027070dc64b8850689b52020571d0e3173ba38cc456501ad1b5d994d6063eb0ec8",
+      "addresses": [
+        "165.22.116.181:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 26471534,
+      "channelCount": 12,
+      "rankCapacity": 699,
+      "rankChannelCount": 1039,
+      "rankAge": 2854,
+      "rankGrowth": 3696,
+      "rankAvailability": 3352
+    },
+    {
+      "score": 17391304,
+      "alias": "ZapTheBanks",
+      "publicKey": "026d8c00b0fc4b7d54e0d79b5123d858e529ec17e031f42217069de8ab8e17d23d",
+      "addresses": [
+        "65.27.134.105:9735"
+      ],
+      "color": "#ffb7ff",
+      "capacity": 49029162,
+      "channelCount": 25,
+      "rankCapacity": 470,
+      "rankChannelCount": 476,
+      "rankAge": 3832,
+      "rankGrowth": 1155,
+      "rankAvailability": 630
+    },
+    {
+      "score": 13043478,
+      "alias": "rabbit",
+      "publicKey": "027a1a4aa858f5329b4d695a7700ad6fe57b120dfad3f2b718dcfada0c9bdac87c",
+      "addresses": [
+        "xsiflfcxvytvuhqbwbbl7btbqowsycvkmji7e5jrqv7xalujwyhxp3ad.onion:9735"
+      ],
+      "color": "#68f442",
+      "capacity": 58855596,
+      "channelCount": 15,
+      "rankCapacity": 399,
+      "rankChannelCount": 825,
+      "rankAge": 6362,
+      "rankGrowth": 9832,
+      "rankAvailability": 573
+    },
+    {
+      "score": 8695652,
+      "alias": "YaDraChiStyIzumRud",
+      "publicKey": "0277bd2282883346eba1568657ca3840f0b78f354fdf5382381aedb83787ade698",
+      "addresses": [
+        "212.47.234.235:9735"
+      ],
+      "color": "#50f080",
+      "capacity": 105105078,
+      "channelCount": 33,
+      "rankCapacity": 266,
+      "rankChannelCount": 351,
+      "rankAge": 7030,
+      "rankGrowth": 627,
+      "rankAvailability": 468
+    },
+    {
+      "score": 26086956,
+      "alias": "lndus0.zaphq.io",
+      "publicKey": "027cd974e47086291bb8a5b0160a889c738f2712a703b8ea939985fd16f3aae67e",
+      "addresses": [
+        "35.196.165.32:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 1178708087,
+      "channelCount": 57,
+      "rankCapacity": 52,
+      "rankChannelCount": 191,
+      "rankAge": 4488,
+      "rankGrowth": 124,
+      "rankAvailability": 392
+    },
+    {
+      "score": 47826086,
+      "alias": "c-otto.de",
+      "publicKey": "027ce055380348d7812d2ae7745701c9f93e70c1adeb2657f053f91df4f2843c71",
+      "addresses": [
+        "157.90.112.145:9735",
+        "[2a01:4f8:c2c:e8a0::1]:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 244225244,
+      "channelCount": 73,
+      "rankCapacity": 139,
+      "rankChannelCount": 143,
+      "rankAge": 941,
+      "rankGrowth": 329,
+      "rankAvailability": 161
+    },
+    {
+      "score": 13043478,
+      "alias": "ln.vanovcan.net",
+      "publicKey": "027cf99e95e346897a6f88212d5240fa790e3b4c97581bcffa354de10128998ce7",
+      "addresses": [
+        "168.119.126.54:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 87671607,
+      "channelCount": 28,
+      "rankCapacity": 305,
+      "rankChannelCount": 407,
+      "rankAge": 1003,
+      "rankGrowth": 549,
+      "rankAvailability": 934
+    },
+    {
+      "score": 17391304,
+      "alias": "CoinPlaza.it",
+      "publicKey": "027e4538fde1d3c776970d5d5b325dddbd4097780a9e3433df2ee1f9f95cd60874",
+      "addresses": [
+        "94.177.222.65:9735"
+      ],
+      "color": "#f7ead2",
+      "capacity": 107493021,
+      "channelCount": 27,
+      "rankCapacity": 258,
+      "rankChannelCount": 433,
+      "rankAge": 1962,
+      "rankGrowth": 1158,
+      "rankAvailability": 5133
+    },
+    {
+      "score": 8695652,
+      "alias": "WizardofAus",
+      "publicKey": "0283de1355ab232080de2904edc77388c6651e2d81a0336bfb739f893b35aa76ce",
+      "addresses": [
+        "k7nvsnfjaicyopohctssvnjly4f447t6ytlez7pfarwmbxtqausic3yd.onion:9735"
+      ],
+      "color": "#68f442",
+      "capacity": 58860000,
+      "channelCount": 27,
+      "rankCapacity": 398,
+      "rankChannelCount": 438,
+      "rankAge": 4694,
+      "rankGrowth": 579,
+      "rankAvailability": 443
+    },
+    {
+      "score": 13043478,
+      "alias": "Electrum",
+      "publicKey": "0284a249ee165723f01ae08dc340f9f60bcbce8dda2140401f1bd7548ef11dd5e6",
+      "addresses": [
+        "144.76.99.209:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 511568689,
+      "channelCount": 81,
+      "rankCapacity": 82,
+      "rankChannelCount": 131,
+      "rankAge": 5572,
+      "rankGrowth": 342,
+      "rankAvailability": 333
+    },
+    {
+      "score": 60869565,
+      "alias": "yalls.org clearnet-yalls",
+      "publicKey": "0288be11d147e1525f7f234f304b094d6627d2c70f3313d7ba3696887b261c4447",
+      "addresses": [
+        "18.219.93.203:9735"
+      ],
+      "color": "#f8e71c",
+      "capacity": 2100053345,
+      "channelCount": 69,
+      "rankCapacity": 15,
+      "rankChannelCount": 159,
+      "rankAge": 6484,
+      "rankGrowth": 9977,
+      "rankAvailability": 258
+    },
+    {
+      "score": 17391304,
+      "alias": "HardMoney",
+      "publicKey": "028cb945b3e409e2451a49bbdf0171a649a321407ddc2aa6f37fa8fcb6c49a1b51",
+      "addresses": [
+        "upo7yie7i3lj7xln7r3ymo6muri2g7hfew64uzekdnm4qcroyquj4sqd.onion:9735"
+      ],
+      "color": "#68f442",
+      "capacity": 86569799,
+      "channelCount": 14,
+      "rankCapacity": 307,
+      "rankChannelCount": 897,
+      "rankAge": 5454,
+      "rankGrowth": 5881,
+      "rankAvailability": 1714
+    },
+    {
+      "score": 8695652,
+      "alias": "CoinOS",
+      "publicKey": "02868e12f320073cad0c2959c42559fbcfd1aa326fcb943492ed7f02c9820aa399",
+      "addresses": [
+        "207.81.214.2:9735",
+        "jbx2afvrkuxopekkvipjcult26ffvu3t4lq5x7k4zcs3z7hovu4kdtyd.onion:9735"
+      ],
+      "color": "#ffff00",
+      "capacity": 282249667,
+      "channelCount": 92,
+      "rankCapacity": 120,
+      "rankChannelCount": 110,
+      "rankAge": 1059,
+      "rankGrowth": 604,
+      "rankAvailability": 274
+    },
+    {
+      "score": 8695652,
+      "alias": "⚡The-Lightning-Ride⚡",
+      "publicKey": "028737303e12cb84643d1f0181812b559a56ef5d78b4c43d1cc0c1c1f17dc88722",
+      "addresses": [
+        "69.122.24.206:19735"
+      ],
+      "color": "#fffaaa",
+      "capacity": 67370266,
+      "channelCount": 60,
+      "rankCapacity": 368,
+      "rankChannelCount": 187,
+      "rankAge": 4651,
+      "rankGrowth": 1156,
+      "rankAvailability": 760
+    },
+    {
+      "score": 8695652,
+      "alias": "ln01.bitpie.com",
+      "publicKey": "027e70d8859e090ed975b11cfa02109221482954a254dff185e4142188eb66518b",
+      "addresses": [
+        "47.75.125.192:9735"
+      ],
+      "color": "#2543b3",
+      "capacity": 204904228,
+      "channelCount": 66,
+      "rankCapacity": 162,
+      "rankChannelCount": 164,
+      "rankAge": 3363,
+      "rankGrowth": 180,
+      "rankAvailability": 633
+    },
+    {
+      "score": 34782608,
+      "alias": "Fold",
+      "publicKey": "02816caed43171d3c9854e3b0ab2cf0c42be086ff1bd4005acc2a5f7db70d83774",
+      "addresses": [
+        "35.238.153.25:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 1980746688,
+      "channelCount": 165,
+      "rankCapacity": 20,
+      "rankChannelCount": 69,
+      "rankAge": 2802,
+      "rankGrowth": 9691,
+      "rankAvailability": 63
+    },
+    {
+      "score": 13043478,
+      "alias": "PChan",
+      "publicKey": "028e5fb3740a727132fc35c9fba88543f1494b82194b18341784eceac1f4f740ad",
+      "addresses": [
+        "ohgk4wnshzldpge4saxj6zhkgsjj6tcaabkywi3i5uo4knyob7j7hiqd.onion:9735"
+      ],
+      "color": "#68f442",
+      "capacity": 40708541,
+      "channelCount": 15,
+      "rankCapacity": 538,
+      "rankChannelCount": 823,
+      "rankAge": 6144,
+      "rankGrowth": 6451,
+      "rankAvailability": 2379
+    },
+    {
+      "score": 17391304,
+      "alias": "OpenNode.com",
+      "publicKey": "028d98b9969fbed53784a36617eb489a59ab6dc9b9d77fcdca9ff55307cd98e3c4",
+      "addresses": [
+        "18.222.70.85:9735"
+      ],
+      "color": "#000000",
+      "capacity": 812358898,
+      "channelCount": 34,
+      "rankCapacity": 61,
+      "rankChannelCount": 338,
+      "rankAge": 6099,
+      "rankGrowth": 589,
+      "rankAvailability": 470
+    },
+    {
+      "score": 8695652,
+      "alias": "LNBIG.com [lnd-33]",
+      "publicKey": "028a8e53d70bc0eb7b5660943582f10b7fd6c727a78ad819ba8d45d6a638432c49",
+      "addresses": [
+        "213.174.156.77:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 1752422885,
+      "channelCount": 286,
+      "rankCapacity": 33,
+      "rankChannelCount": 34,
+      "rankAge": 1942,
+      "rankGrowth": 9996,
+      "rankAvailability": 297
+    },
+    {
+      "score": 17391304,
+      "alias": "HeldenLight",
+      "publicKey": "0290cc884704073b2b633f69f852e8ca2a37660bb359a1e861f2b48760c298ac53",
+      "addresses": [
+        "5.9.94.237:9735"
+      ],
+      "color": "#0000aa",
+      "capacity": 107392117,
+      "channelCount": 54,
+      "rankCapacity": 259,
+      "rankChannelCount": 207,
+      "rankAge": 1553,
+      "rankGrowth": 2636,
+      "rankAvailability": 696
+    },
+    {
+      "score": 8695652,
+      "alias": "shallot",
+      "publicKey": "029679e5a0413f06b082bb4cc081cee13517ad403323b9c018b172584718aea8f6",
+      "addresses": [
+        "q3m4yardlfgci2345zahghtzfhydrkdioduoi46xrtcoq6ija3tjzxid.onion:9735"
+      ],
+      "color": "#b55c93",
+      "capacity": 25481352,
+      "channelCount": 13,
+      "rankCapacity": 717,
+      "rankChannelCount": 972,
+      "rankAge": 4032,
+      "rankGrowth": 4686,
+      "rankAvailability": 847
+    },
+    {
+      "score": 8695652,
+      "alias": "🥒CTRLBREAK🥒",
+      "publicKey": "0290fb6ecd5865f7a973e1d48ffbc2612f80f6a2defbd6a188928bd0492bc2847e",
+      "addresses": [
+        "159.2.165.130:9735"
+      ],
+      "color": "#00ff00",
+      "capacity": 124071683,
+      "channelCount": 35,
+      "rankCapacity": 237,
+      "rankChannelCount": 312,
+      "rankAge": 966,
+      "rankGrowth": 610,
+      "rankAvailability": 5274
+    },
+    {
+      "score": 13043478,
+      "alias": "LightningCanada",
+      "publicKey": "0290681a8483f53775eca26674e215890e06a42e389c1cd0f6e0e4f46e8583c48c",
+      "addresses": [
+        "70.82.224.3:9735"
+      ],
+      "color": "#e8112d",
+      "capacity": 153163201,
+      "channelCount": 34,
+      "rankCapacity": 201,
+      "rankChannelCount": 331,
+      "rankAge": 1781,
+      "rankGrowth": 272,
+      "rankAvailability": 498
+    },
+    {
+      "score": 8695652,
+      "alias": "IRATEFEED",
+      "publicKey": "0285c280641305f1641a9e08718d5f4b1ea3bde8003beec4acfbefb5dde207ae4d",
+      "addresses": [
+        "172.67.222.231:9735",
+        "bx2ljfxgngkuz2fqdlpy3ktub5dxu5pxje2gfslb2eqiuuve4sp6zqqd.onion:9735"
+      ],
+      "color": "#0285c2",
+      "capacity": 260520000,
+      "channelCount": 18,
+      "rankCapacity": 131,
+      "rankChannelCount": 687,
+      "rankAge": 5155,
+      "rankGrowth": 5624,
+      "rankAvailability": 6041
+    },
+    {
+      "score": 100000000,
+      "alias": "BCash_Is_Trash",
+      "publicKey": "0298f6074a454a1f5345cb2a7c6f9fce206cd0bf675d177cdbf0ca7508dd28852f",
+      "addresses": [
+        "73.119.255.56:9735",
+        "[2601:18d:8900:cc0:219:d1ff:fe75:dc2f]:9735"
+      ],
+      "color": "#ffaa00",
+      "capacity": 860650131,
+      "channelCount": 387,
+      "rankCapacity": 59,
+      "rankChannelCount": 18,
+      "rankAge": 3908,
+      "rankGrowth": 133,
+      "rankAvailability": 115
+    },
+    {
+      "score": 8695652,
+      "alias": "towardsliberty.com",
+      "publicKey": "029f0eb3fb2da0d512294d3abcf99642211ca9b31a8e8cf93e11d91ac5376dbb89",
+      "addresses": [
+        "185.150.162.111:9735",
+        "mf7z7colfaoe6ne7otpshhcer54xizwuqfah2jyd6irh77uc7b7lwnqd.onion:9735"
+      ],
+      "color": "#b40404",
+      "capacity": 29886581,
+      "channelCount": 16,
+      "rankCapacity": 653,
+      "rankChannelCount": 776,
+      "rankAge": 7830,
+      "rankGrowth": 9337,
+      "rankAvailability": 698
+    },
+    {
+      "score": 13043478,
+      "alias": "ln.satjar.com",
+      "publicKey": "029a8741675c4c9078b577ddc4348d602d2fb45a12e6087b617925997a84f4c02e",
+      "addresses": [
+        "66.68.85.16:9735"
+      ],
+      "color": "#0479ca",
+      "capacity": 161204704,
+      "channelCount": 82,
+      "rankCapacity": 191,
+      "rankChannelCount": 124,
+      "rankAge": 651,
+      "rankGrowth": 617,
+      "rankAvailability": 697
+    },
+    {
+      "score": 8695652,
+      "alias": "21 nodl [LND] LNFAN",
+      "publicKey": "02a81c886f7cc867205c4fd4e6e9d4049a60db183599ab006d45e0c7170547a7ec",
+      "addresses": [
+        "io3cynjl2xoi7afqrh43nevshecg33pkl35b65wbuf2r344rxdhsalqd.onion:9735"
+      ],
+      "color": "#0000ff",
+      "capacity": 165629296,
+      "channelCount": 41,
+      "rankCapacity": 189,
+      "rankChannelCount": 277,
+      "rankAge": 2819,
+      "rankGrowth": 3666,
+      "rankAvailability": 946
+    },
+    {
+      "score": 26086956,
+      "alias": "lozanode",
+      "publicKey": "02a612822856b317dce0d27e4d453c0096064cff91ad0b0cb6d7f3ba33a9a7b754",
+      "addresses": [
+        "pm5iiqbfvx6pgfdz7sxepvc4btgmwg6iq6gfwfbmgof3lvvzw6yg2xad.onion:9735"
+      ],
+      "color": "#68f442",
+      "capacity": 151307141,
+      "channelCount": 25,
+      "rankCapacity": 203,
+      "rankChannelCount": 484,
+      "rankAge": 6068,
+      "rankGrowth": 6389,
+      "rankAvailability": 638
+    },
+    {
+      "score": 8695652,
+      "alias": "https://lightningboost.info",
+      "publicKey": "02a4ee943caeb847398960230bccc19937dd04834e768472b711a4ce0e2c77cd98",
+      "addresses": [
+        "179.219.210.61:9735",
+        "g4xc7yl2shtllx564dv7wqelnqh2gjco6k5vd77upz3rgzozugpkmkad.onion:9735"
+      ],
+      "color": "#ff0000",
+      "capacity": 33542050,
+      "channelCount": 26,
+      "rankCapacity": 611,
+      "rankChannelCount": 458,
+      "rankAge": 5513,
+      "rankGrowth": 5933,
+      "rankAvailability": 1742
+    },
+    {
+      "score": 13043478,
+      "alias": "LND.CTRLBREAK",
+      "publicKey": "02a5a95669adcb170dc85a70eef8bdd3e60b459d83bb47b6aac3e17c58faffc919",
+      "addresses": [
+        "159.2.165.130:9835"
+      ],
+      "color": "#ff00ff",
+      "capacity": 57507419,
+      "channelCount": 14,
+      "rankCapacity": 408,
+      "rankChannelCount": 869,
+      "rankAge": 2219,
+      "rankGrowth": 370,
+      "rankAvailability": 945
+    },
+    {
+      "score": 13043478,
+      "alias": "amazing_horse",
+      "publicKey": "02a2c53bc475cb92e4ab2f38a5bca56df695034ce90ad78c2f47c05911e3f79e41",
+      "addresses": [
+        "46.4.92.21:9735",
+        "[2a01:4f8:141:47::2]:9735"
+      ],
+      "color": "#00ddff",
+      "capacity": 45634583,
+      "channelCount": 12,
+      "rankCapacity": 494,
+      "rankChannelCount": 1036,
+      "rankAge": 2761,
+      "rankGrowth": 551,
+      "rankAvailability": 5715
+    },
+    {
+      "score": 17391304,
+      "alias": "blue 🐘",
+      "publicKey": "02a45def9ae014fdd2603dd7033d157faa3a55a72b06a63ae22ef46d9fafdc6e8d",
+      "addresses": [
+        "85.216.66.241:9735",
+        "iuqfzffbugmi27n4bnmky55d6jck334mrgrxplmyc2dpaky5yxqgemyd.onion:9735"
+      ],
+      "color": "#5a5dc6",
+      "capacity": 249967207,
+      "channelCount": 50,
+      "rankCapacity": 134,
+      "rankChannelCount": 231,
+      "rankAge": 851,
+      "rankGrowth": 326,
+      "rankAvailability": 446
+    },
+    {
+      "score": 8695652,
+      "alias": "France HUB 🇫🇷",
+      "publicKey": "02a447fd201226f0bf6421c356f9d2117b0fb05ccc0858dd2b20589b9edb488f67",
+      "addresses": [
+        "51.38.57.118:9735",
+        "[fe80::ae1f:6bff:fe46:76a0]:9735",
+        "jbyiz3ley6kbemaf.onion:9735",
+        "frbezeaul6iip4yiuayey3pjentrfdrbuaypoq3s2iin3cotkm34lrqd.onion:9735"
+      ],
+      "color": "#0d00c7",
+      "capacity": 137549390,
+      "channelCount": 81,
+      "rankCapacity": 217,
+      "rankChannelCount": 130,
+      "rankAge": 2903,
+      "rankGrowth": 9607,
+      "rankAvailability": 4688
+    },
+    {
+      "score": 21739130,
+      "alias": "ln.bitstamp.net [Bitstamp]",
+      "publicKey": "02a04446caa81636d60d63b066f2814cbd3a6b5c258e3172cbdded7a16e2cfff4c",
+      "addresses": [
+        "3.122.40.122:9735"
+      ],
+      "color": "#159e49",
+      "capacity": 1762246423,
+      "channelCount": 374,
+      "rankCapacity": 31,
+      "rankChannelCount": 20,
+      "rankAge": 3721,
+      "rankGrowth": 35,
+      "rankAvailability": 33
+    },
+    {
+      "score": 8695652,
+      "alias": "tomjodh.nl (2)",
+      "publicKey": "02a84dc76446354f8374d1b059fcba6adcda6d266729cd25d2618e240712f8a22c",
+      "addresses": [
+        "vftzznusgqss5pwzzuktx4zimmi3zxfxqszqpzv7td4o7ewktwgkfdad.onion:9735"
+      ],
+      "color": "#68f442",
+      "capacity": 63772023,
+      "channelCount": 28,
+      "rankCapacity": 382,
+      "rankChannelCount": 424,
+      "rankAge": 5944,
+      "rankGrowth": 6290,
+      "rankAvailability": 770
+    },
+    {
+      "score": 13043478,
+      "alias": "02a1d2856be336a58af0",
+      "publicKey": "02a1d2856be336a58af08989aea0d8c41e072ccc392c46f8ce0e6e069f002035f3",
+      "addresses": [
+        "165.227.7.29:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 167081605,
+      "channelCount": 61,
+      "rankCapacity": 187,
+      "rankChannelCount": 176,
+      "rankAge": 1204,
+      "rankGrowth": 106,
+      "rankAvailability": 277
+    },
+    {
+      "score": 8695652,
+      "alias": "spotlight.soy",
+      "publicKey": "02aac548b877279c30f3abbb7301de93096e3b87144fc484dc3409bb0d6bd566b1",
+      "addresses": [
+        "160.16.59.243:9735"
+      ],
+      "color": "#02aac5",
+      "capacity": 92832063,
+      "channelCount": 33,
+      "rankCapacity": 287,
+      "rankChannelCount": 345,
+      "rankAge": 4104,
+      "rankGrowth": 238,
+      "rankAvailability": 4117
+    },
+    {
+      "score": 21739130,
+      "alias": "Psilocybe Cubensis",
+      "publicKey": "02b37a7de2b3a6b4b04485a2a6eba03feff0d5d34813a0401d09fbcbfedfbb1a1f",
+      "addresses": [
+        "91.123.183.219:9735",
+        "emfvjnjghqjv5bn6lqcgvaushuj4ldqjtgcuejj73yvwkq5dj2scavid.onion:9735"
+      ],
+      "color": "#02b37a",
+      "capacity": 230903673,
+      "channelCount": 52,
+      "rankCapacity": 145,
+      "rankChannelCount": 224,
+      "rankAge": 6593,
+      "rankGrowth": 132,
+      "rankAvailability": 4055
+    },
+    {
+      "score": 30434782,
+      "alias": "MidWestLNd",
+      "publicKey": "02b56712f65c281a1eacee0bb034699a716535a1c8ae1c912e232893d4ad27d3a7",
+      "addresses": [
+        "qtug2re77i66jgyzwiv7deheemvh4pyunnymljh65fi2sbx3xi4qxhyd.onion:9735"
+      ],
+      "color": "#2d2bb8",
+      "capacity": 338322101,
+      "channelCount": 38,
+      "rankCapacity": 106,
+      "rankChannelCount": 296,
+      "rankAge": 5586,
+      "rankGrowth": 328,
+      "rankAvailability": 421
+    },
+    {
+      "score": 13043478,
+      "alias": "BonsaiSoftware",
+      "publicKey": "02a5fa844d310f582d209fe649352b225440b8a54e77361f229bb92ee263c87e6f",
+      "addresses": [
+        "192.184.130.48:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 90686130,
+      "channelCount": 32,
+      "rankCapacity": 298,
+      "rankChannelCount": 358,
+      "rankAge": 3795,
+      "rankGrowth": 553,
+      "rankAvailability": 1079
+    },
+    {
+      "score": 13043478,
+      "alias": "my-node",
+      "publicKey": "02abbaa2bce7a353ec0624cfb91d19a3a6024d9bebdd96e79e6f289ea6915790e4",
+      "addresses": [
+        "167.99.176.145:9735",
+        "veur2fyjb7pzev6opgmgjjipllk4o5rqfakp32qxmgcu4tv47ssjgkyd.onion:9735"
+      ],
+      "color": "#02abba",
+      "capacity": 89806689,
+      "channelCount": 18,
+      "rankCapacity": 302,
+      "rankChannelCount": 666,
+      "rankAge": 1845,
+      "rankGrowth": 1144,
+      "rankAvailability": 5141
+    },
+    {
+      "score": 39130434,
+      "alias": "nineteeneightyfour",
+      "publicKey": "02b686ccf655ece9aec77d4d80f19bb9193f7ce224ab7c8bbe72feb3cdd7187e01",
+      "addresses": [
+        "128.199.13.22:9735",
+        "675jk26rwpkvrswme2y5hpxycrgol6n22eyf4besf2jlqpxv6wljypyd.onion:9735"
+      ],
+      "color": "#000000",
+      "capacity": 2431705586,
+      "channelCount": 268,
+      "rankCapacity": 10,
+      "rankChannelCount": 41,
+      "rankAge": 6203,
+      "rankGrowth": 21,
+      "rankAvailability": 51
+    },
+    {
+      "score": 13043478,
+      "alias": "Nee3atic",
+      "publicKey": "02b707dafcc7fbabe110a66040294eede89de6452175d238e0a2a34abdf9eaaec5",
+      "addresses": [
+        "oveaay2v5jvj6z3aojw76l7cxls7uh6oyuhb67jzi2nimnvsuw7vjiad.onion:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 159092590,
+      "channelCount": 39,
+      "rankCapacity": 193,
+      "rankChannelCount": 289,
+      "rankAge": 6616,
+      "rankGrowth": 69,
+      "rankAvailability": 207
+    },
+    {
+      "score": 13043478,
+      "alias": "node02.fulmo.org",
+      "publicKey": "02b6dabd436275044399002241195b82b7fed517b226d0a109b1d07a39d7b4a91a",
+      "addresses": [
+        "91.109.21.146:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 157059040,
+      "channelCount": 70,
+      "rankCapacity": 197,
+      "rankChannelCount": 153,
+      "rankAge": 3603,
+      "rankGrowth": 331,
+      "rankAvailability": 220
+    },
+    {
+      "score": 30434782,
+      "alias": "microlancer.io",
+      "publicKey": "02bb10aaa77a95a358cebb2d112c4de00e47c08f56e89b1acb4487ddd44cc98d6d",
+      "addresses": [
+        "76.226.84.35:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 573208639,
+      "channelCount": 92,
+      "rankCapacity": 76,
+      "rankChannelCount": 112,
+      "rankAge": 5040,
+      "rankGrowth": 167,
+      "rankAvailability": 124
+    },
+    {
+      "score": 13043478,
+      "alias": "SatBase.org",
+      "publicKey": "02bcc7d378263af7a5dca103f16f5c94ffdfb63c161433764973904f50688a9071",
+      "addresses": [
+        "knftwnyvzrmqgcz753c7giyjiflfpauqfprnta6ovquf4pyr35zszayd.onion:9735"
+      ],
+      "color": "#ff00ff",
+      "capacity": 393857694,
+      "channelCount": 36,
+      "rankCapacity": 94,
+      "rankChannelCount": 310,
+      "rankAge": 8368,
+      "rankGrowth": 38,
+      "rankAvailability": 336
+    },
+    {
+      "score": 34782608,
+      "alias": "LNBIG.com [lnd-10]",
+      "publicKey": "02bb24da3d0fb0793f4918c7599f973cc402f0912ec3fb530470f1fc08bdd6ecb5",
+      "addresses": [
+        "46.229.165.147:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 1778636682,
+      "channelCount": 241,
+      "rankCapacity": 30,
+      "rankChannelCount": 47,
+      "rankAge": 3401,
+      "rankGrowth": 9981,
+      "rankAvailability": 375
+    },
+    {
+      "score": 13043478,
+      "alias": "@lntxbot",
+      "publicKey": "02c16cca44562b590dd279c942200bdccfd4f990c3a69fad620c10ef2f8228eaff",
+      "addresses": [
+        "5.2.67.89:9735"
+      ],
+      "color": "#296683",
+      "capacity": 131435155,
+      "channelCount": 19,
+      "rankCapacity": 224,
+      "rankChannelCount": 623,
+      "rankAge": 1767,
+      "rankGrowth": 229,
+      "rankAvailability": 4298
+    },
+    {
+      "score": 8695652,
+      "alias": "bitcoin.grey.pw",
+      "publicKey": "02c0a6e4f7e6d01edc5aa14f5445cd8c87c478ad1c72fcb8b594d4989cc2a1fa9e",
+      "addresses": [
+        "161.97.133.225:9735",
+        "bitcoinlpnavvcmyviet6vjfdkeive5yolewi4teudtywhbsqxcqtxid.onion:9735",
+        "bitcoin3nqy3db7c.onion:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 35887319,
+      "channelCount": 15,
+      "rankCapacity": 586,
+      "rankChannelCount": 805,
+      "rankAge": 3761,
+      "rankGrowth": 4469,
+      "rankAvailability": 1087
+    },
+    {
+      "score": 8695652,
+      "alias": "IthurtswhenIP",
+      "publicKey": "02c287d1be9c9fa13d4ded0b0432b7e2367b1b20d822ab76546c4bb67cac1bc6e1",
+      "addresses": [
+        "u42zuft3rlhjkts4ubstchserkdgyycinb2qh4jykbpt2het3rr2awqd.onion:9735"
+      ],
+      "color": "#007600",
+      "capacity": 27299605,
+      "channelCount": 17,
+      "rankCapacity": 689,
+      "rankChannelCount": 711,
+      "rankAge": 2101,
+      "rankGrowth": 9573,
+      "rankAvailability": 957
+    },
+    {
+      "score": 13043478,
+      "alias": "LightTheClassic",
+      "publicKey": "02c29b89b2121b2c1fa2e5422bc70e0bb7ae7326c7a9d2b796ed6b89cdc5a2871b",
+      "addresses": [
+        "158.181.125.150:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 215192978,
+      "channelCount": 61,
+      "rankCapacity": 154,
+      "rankChannelCount": 181,
+      "rankAge": 3731,
+      "rankGrowth": 228,
+      "rankAvailability": 640
+    },
+    {
+      "score": 39130434,
+      "alias": "LNBIG.com [lnd-21]",
+      "publicKey": "02c91d6aa51aa940608b497b6beebcb1aec05be3c47704b682b3889424679ca490",
+      "addresses": [
+        "213.174.156.65:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 2150533638,
+      "channelCount": 374,
+      "rankCapacity": 13,
+      "rankChannelCount": 19,
+      "rankAge": 1931,
+      "rankGrowth": 9992,
+      "rankAvailability": 208
+    },
+    {
+      "score": 8695652,
+      "alias": "Adam Back’s Vision 🎩",
+      "publicKey": "02c1ac5cee87e4f40f24ea4560ab0e63f398ef5fb630cf50a0e2f638ce51e3169e",
+      "addresses": [
+        "35.224.223.76:9735"
+      ],
+      "color": "#02c1ac",
+      "capacity": 100002510,
+      "channelCount": 31,
+      "rankCapacity": 277,
+      "rankChannelCount": 369,
+      "rankAge": 1609,
+      "rankGrowth": 9318,
+      "rankAvailability": 4507
+    },
+    {
+      "score": 21739130,
+      "alias": "BitcoinLn.info",
+      "publicKey": "02bf187357baa624c178c24b08a15825dc059b7d7c02695ea9f1e2400952e5fc7d",
+      "addresses": [
+        "159.69.144.41:9735"
+      ],
+      "color": "#ff9200",
+      "capacity": 59697064,
+      "channelCount": 21,
+      "rankCapacity": 395,
+      "rankChannelCount": 562,
+      "rankAge": 5036,
+      "rankGrowth": 5534,
+      "rankAvailability": 580
+    },
+    {
+      "score": 8695652,
+      "alias": "etleneum.com",
+      "publicKey": "02bed1812d3824f7cc4ccd38da5d66a29fcfec146fe95e26cd2e0d3f930d653a8d",
+      "addresses": [
+        "5.2.67.89:9736"
+      ],
+      "color": "#c2f1bb",
+      "capacity": 39318911,
+      "channelCount": 14,
+      "rankCapacity": 551,
+      "rankChannelCount": 877,
+      "rankAge": 3047,
+      "rankGrowth": 351,
+      "rankAvailability": 5148
+    },
+    {
+      "score": 8695652,
+      "alias": "Europe-Lightning-Hub.eu",
+      "publicKey": "02ca4c46faa50b2d961f4ad2e9d00c90826077b6a282b71079a88cb29a34b8c84a",
+      "addresses": [
+        "178.143.52.84:9735"
+      ],
+      "color": "#ff45aa",
+      "capacity": 82162415,
+      "channelCount": 95,
+      "rankCapacity": 322,
+      "rankChannelCount": 104,
+      "rankAge": 4561,
+      "rankGrowth": 728,
+      "rankAvailability": 4180
+    },
+    {
+      "score": 8695652,
+      "alias": "Lifeanon269",
+      "publicKey": "02c80136d51ee2605a32fdf015bf15f5651aafed07934091011cec88822a1a26dd",
+      "addresses": [
+        "67.247.167.150:9735"
+      ],
+      "color": "#68f442",
+      "capacity": 77140919,
+      "channelCount": 18,
+      "rankCapacity": 336,
+      "rankChannelCount": 677,
+      "rankAge": 2730,
+      "rankGrowth": 9339,
+      "rankAvailability": 472
+    },
+    {
+      "score": 8695652,
+      "alias": "CreamPay",
+      "publicKey": "02c69a0b4cb468660348d6d457d9212563ad08fb94d424395da6796fb74a13f276",
+      "addresses": [
+        "163.172.82.118:9735"
+      ],
+      "color": "#008080",
+      "capacity": 263758449,
+      "channelCount": 113,
+      "rankCapacity": 127,
+      "rankChannelCount": 93,
+      "rankAge": 1604,
+      "rankGrowth": 323,
+      "rankAvailability": 422
+    },
+    {
+      "score": 13043478,
+      "alias": "Neutronpay.com",
+      "publicKey": "02c73c8ac3f37bb28d9fc3819dc17baecdf24b137d476a2a9e22395d490d842bec",
+      "addresses": [
+        "159.65.4.159:9735"
+      ],
+      "color": "#8b008b",
+      "capacity": 285194228,
+      "channelCount": 57,
+      "rankCapacity": 119,
+      "rankChannelCount": 190,
+      "rankAge": 3519,
+      "rankGrowth": 504,
+      "rankAvailability": 645
+    },
+    {
+      "score": 21739130,
+      "alias": "02d6647db36045d66524",
+      "publicKey": "02d6647db36045d6652431a57bd3ed49cd1397100d0a2f08c60691ba51c80f77ea",
+      "addresses": [
+        "xxczi32c2aubx74nv3wyzjzdiczw6tx6txfjpj6iq53524rrhxx6aoad.onion:9735"
+      ],
+      "color": "#49daaa",
+      "capacity": 91969125,
+      "channelCount": 34,
+      "rankCapacity": 294,
+      "rankChannelCount": 337,
+      "rankAge": 5303,
+      "rankGrowth": 5749,
+      "rankAvailability": 1346
+    },
+    {
+      "score": 13043478,
+      "alias": "ln1-a.lightcore.co",
+      "publicKey": "02da0713ab1b12eeb01f212944a435077f39f1b767ee5c24b01cdb4b0b9377b66b",
+      "addresses": [
+        "204.12.207.91:9735"
+      ],
+      "color": "#ffa500",
+      "capacity": 87439412,
+      "channelCount": 73,
+      "rankCapacity": 306,
+      "rankChannelCount": 144,
+      "rankAge": 1138,
+      "rankGrowth": 2255,
+      "rankAvailability": 1094
+    },
+    {
+      "score": 43478260,
+      "alias": "HashQuark01",
+      "publicKey": "02d3db7c13440cf6b4d636208acceb0d07c60e4e14aacd2aa87c0e91ee827422e3",
+      "addresses": [
+        "152.32.173.177:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 511064134,
+      "channelCount": 95,
+      "rankCapacity": 83,
+      "rankChannelCount": 105,
+      "rankAge": 5867,
+      "rankGrowth": 9959,
+      "rankAvailability": 198
+    },
+    {
+      "score": 8695652,
+      "alias": "Bitcoin_Discord",
+      "publicKey": "02d147d5b634e3ef558461f7571099ce4e2b04dd831d9d0f2c2ecbc1cd814cae20",
+      "addresses": [
+        "167.86.81.74:9735",
+        "[2a02:c207:2024:6115::1]:9736"
+      ],
+      "color": "#3399ff",
+      "capacity": 76759341,
+      "channelCount": 56,
+      "rankCapacity": 337,
+      "rankChannelCount": 196,
+      "rankAge": 3060,
+      "rankGrowth": 428,
+      "rankAvailability": 502
+    },
+    {
+      "score": 8695652,
+      "alias": "booz",
+      "publicKey": "02db9c5c2d0e40d6ce8747255983be8b309fa7caa7f67a72bc30e94bdddb326edf",
+      "addresses": [
+        "216.189.153.64:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 59443116,
+      "channelCount": 20,
+      "rankCapacity": 396,
+      "rankChannelCount": 591,
+      "rankAge": 4105,
+      "rankGrowth": 555,
+      "rankAvailability": 3377
+    },
+    {
+      "score": 13043478,
+      "alias": "LNBIG.com [lnd-09]",
+      "publicKey": "02de11c748f5b25cfd2ce801176d3926bfde4de23b1ff43e692a5b76cf06805e4a",
+      "addresses": [
+        "46.229.165.146:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 1505974984,
+      "channelCount": 195,
+      "rankCapacity": 45,
+      "rankChannelCount": 59,
+      "rankAge": 3400,
+      "rankGrowth": 9970,
+      "rankAvailability": 338
+    },
+    {
+      "score": 13043478,
+      "alias": "02de9f484b93a01dc0d0",
+      "publicKey": "02de9f484b93a01dc0d033462c5f9abb92bf8c43dab87c3f89bcce082df41e9867",
+      "addresses": [
+        "vibc4samvciokhaaezgcyeofeut7mfxdsxccljtcnmrxepgbdnimhqqd.onion:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 60065889,
+      "channelCount": 11,
+      "rankCapacity": 393,
+      "rankChannelCount": 1198,
+      "rankAge": 8756,
+      "rankGrowth": 9915,
+      "rankAvailability": 261
+    },
+    {
+      "score": 8695652,
+      "alias": "PlayPallAcid",
+      "publicKey": "02e1d21eb00b828b9e0b7935e160cb0935b1b0149e1958502f0a952c3801a1154a",
+      "addresses": [
+        "efej6naro6b2z5luci2fq4xw6vywrqmdrjnkxpxt3atpzzlwk5kiuaad.onion:9735"
+      ],
+      "color": "#68f442",
+      "capacity": 64090515,
+      "channelCount": 26,
+      "rankCapacity": 380,
+      "rankChannelCount": 459,
+      "rankAge": 6057,
+      "rankGrowth": 9764,
+      "rankAvailability": 708
+    },
+    {
+      "score": 21739130,
+      "alias": "Blockstream Store",
+      "publicKey": "02df5ffe895c778e10f7742a6c5b8a0cefbe9465df58b92fadeb883752c8107c8f",
+      "addresses": [
+        "35.232.170.67:9735",
+        "giexynrrloc2fewstcybenljdksidtglfydecbellzkl63din6w73eid.onion:9735"
+      ],
+      "color": "#02df5f",
+      "capacity": 288580587,
+      "channelCount": 90,
+      "rankCapacity": 117,
+      "rankChannelCount": 115,
+      "rankAge": 1577,
+      "rankGrowth": 75,
+      "rankAvailability": 339
+    },
+    {
+      "score": 8695652,
+      "alias": "Hedonismbot",
+      "publicKey": "02df6d3454bc4c0cdd9b6e5f04451f53c48d22300d3066cf4a8fb49effd025c0af",
+      "addresses": [
+        "46.229.238.187:9735",
+        "edbw72su3pts2mfodo2twrrwecuv4wfzqt7cjqsjuw4dovdhngcndeid.onion:9735"
+      ],
+      "color": "#d2b22b",
+      "capacity": 47012976,
+      "channelCount": 48,
+      "rankCapacity": 488,
+      "rankChannelCount": 241,
+      "rankAge": 630,
+      "rankGrowth": 1768,
+      "rankAvailability": 1098
+    },
+    {
+      "score": 8695652,
+      "alias": "ideasarelikeflames.com",
+      "publicKey": "02e01367e1d7818a7e9a0e8a52badd5c32615e07568dbe0497b6a47f9bef89d6af",
+      "addresses": [
+        "170.75.160.15:9735",
+        "ohoy6iupp5eup5o5mouvabvvndakgdn4wmjcdqp7zszg4djx7lc7rkyd.onion:9735"
+      ],
+      "color": "#02e013",
+      "capacity": 146898897,
+      "channelCount": 43,
+      "rankCapacity": 207,
+      "rankChannelCount": 268,
+      "rankAge": 2258,
+      "rankGrowth": 9692,
+      "rankAvailability": 4429
+    },
+    {
+      "score": 13043478,
+      "alias": "Tor_Routing_Node",
+      "publicKey": "02f09416daf433ac179b9260551007db513e648708bafaa8b2b283c91e73d97cff",
+      "addresses": [
+        "6uf3pzmbpl4k65gm6zw57lzpumwutjd5xj3ybuw6ccl324oqavtgg5ad.onion:9735"
+      ],
+      "color": "#68f442",
+      "capacity": 92789001,
+      "channelCount": 27,
+      "rankCapacity": 288,
+      "rankChannelCount": 442,
+      "rankAge": 5125,
+      "rankGrowth": 566,
+      "rankAvailability": 712
+    },
+    {
+      "score": 8695652,
+      "alias": "tianxiadaluan",
+      "publicKey": "02e7a7d3c1e6055b7b7457d95e04d9bbd24f200fd4a58daca7beee7bc776e17440",
+      "addresses": [
+        "twryyrdkmyvf4ppl35cneigibvi4uus4yuw2vm7hbtsdm6wuchli2cyd.onion:9735"
+      ],
+      "color": "#68f442",
+      "capacity": 55484349,
+      "channelCount": 23,
+      "rankCapacity": 421,
+      "rankChannelCount": 523,
+      "rankAge": 8854,
+      "rankGrowth": 90,
+      "rankAvailability": 116
+    },
+    {
+      "score": 13043478,
+      "alias": "VIOLETBEAM",
+      "publicKey": "02f1246b8fe904a5c5193504d8069532b1fb8692b84fb3eb64318b201238f60ff1",
+      "addresses": [
+        "95.217.142.60:9735",
+        "gzdio22gfjuxet4cx3cygstcznudd4l3lhvxt5z57cftkyhfhblkjiqd.onion:9735"
+      ],
+      "color": "#02f124",
+      "capacity": 47970707,
+      "channelCount": 16,
+      "rankCapacity": 479,
+      "rankChannelCount": 759,
+      "rankAge": 4125,
+      "rankGrowth": 557,
+      "rankAvailability": 5298
+    },
+    {
+      "score": 8695652,
+      "alias": "HODLcat.com",
+      "publicKey": "02e5067afb7be9470214acc10d7b3ebc39e84cd7de57d86cc3598514fa6d821229",
+      "addresses": [
+        "172.81.181.48:9735",
+        "eu4crm2co2o273naqvtiacjpibdzq6v5xsz6zfm2gtmh2g7xoggtyayd.onion:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 69605526,
+      "channelCount": 49,
+      "rankCapacity": 358,
+      "rankChannelCount": 239,
+      "rankAge": 2053,
+      "rankGrowth": 1093,
+      "rankAvailability": 1361
+    },
+    {
+      "score": 78260869,
+      "alias": "hodlister_co",
+      "publicKey": "02f3069a342ae2883a6f29e275f06f28a56a6ea2e2d96f5888a3266444dcf542b6",
+      "addresses": [
+        "95.216.229.43:9735",
+        "[2a01:4f9:2b:2254::2]:9735",
+        "guunl72w6m2vwlfwd5swnpydhvqrrl6yjgzbixsiowxm4ivvwc4xr7ad.onion:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 449145725,
+      "channelCount": 193,
+      "rankCapacity": 89,
+      "rankChannelCount": 60,
+      "rankAge": 1624,
+      "rankGrowth": 126,
+      "rankAvailability": 210
+    },
+    {
+      "score": 30434782,
+      "alias": "bravenewworld",
+      "publicKey": "02dfdcca40725ca204eec5d43a9201ff13fcd057c369c058ce4f19e5c178da09f3",
+      "addresses": [
+        "46.101.138.202:9735",
+        "yrejrjut5oho5vgsjgxlt7odrfykzzsdew72kxt3rj5xcmejv2llneyd.onion:9735"
+      ],
+      "color": "#000000",
+      "capacity": 2092126167,
+      "channelCount": 240,
+      "rankCapacity": 16,
+      "rankChannelCount": 50,
+      "rankAge": 6154,
+      "rankGrowth": 16,
+      "rankAvailability": 64
+    },
+    {
+      "score": 100000000,
+      "alias": "SilentBob",
+      "publicKey": "02e9046555a9665145b0dbd7f135744598418df7d61d3660659641886ef1274844",
+      "addresses": [
+        "31.17.70.80:9735"
+      ],
+      "color": "#0000ff",
+      "capacity": 2077730562,
+      "channelCount": 190,
+      "rankCapacity": 18,
+      "rankChannelCount": 61,
+      "rankAge": 1693,
+      "rankGrowth": 178,
+      "rankAvailability": 244
+    },
+    {
+      "score": 17391304,
+      "alias": "ToDaMoon",
+      "publicKey": "02fc7f60800bbb54db9d0ec22c32b4dd2565d6feb8c618dbf904b7e0a293aed0f6",
+      "addresses": [
+        "xz2qjan4fhzjyioa.onion:9735",
+        "jzibjdviad32gwltvwdarcrfge4dz45dpostthmplpzvxp6e5h53k3ad.onion:9735"
+      ],
+      "color": "#02fc7f",
+      "capacity": 107206325,
+      "channelCount": 28,
+      "rankCapacity": 260,
+      "rankChannelCount": 418,
+      "rankAge": 4818,
+      "rankGrowth": 5353,
+      "rankAvailability": 5493
+    },
+    {
+      "score": 26086956,
+      "alias": "xo_II",
+      "publicKey": "02e8b87796f8c4123d1b4bfb0365584bb6a7177c73c71bc1e6659509d74a7504a3",
+      "addresses": [
+        "gafxb5bwtzbrcsb3pcjmjnypwrrqcba55iitcnocsbaxvnrtkts4d4id.onion:9735"
+      ],
+      "color": "#68f442",
+      "capacity": 260488788,
+      "channelCount": 27,
+      "rankCapacity": 132,
+      "rankChannelCount": 445,
+      "rankAge": 7701,
+      "rankGrowth": 220,
+      "rankAvailability": 199
+    },
+    {
+      "score": 8695652,
+      "alias": "02fb79c3a9121d85b126",
+      "publicKey": "02fb79c3a9121d85b126687bd111eaebf21aaaaa5cbf232e2b6c3bdf8803f40182",
+      "addresses": [
+        "34.122.245.143:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 112858069,
+      "channelCount": 22,
+      "rankCapacity": 253,
+      "rankChannelCount": 541,
+      "rankAge": 6602,
+      "rankGrowth": 324,
+      "rankAvailability": 360
+    },
+    {
+      "score": 21739130,
+      "alias": "blackgold",
+      "publicKey": "02f40890af885da4673f0ee9725ee74bb2c66d6491cc4334056a2701057993e61d",
+      "addresses": [
+        "88.198.91.250:9735",
+        "[2a01:4f8:160:60aa::2]:9735",
+        "blackwort4i27cvp4l4l45nq7iebyjyib5lfwqzdpgiznqtlzu3c7jid.onion:9735"
+      ],
+      "color": "#000000",
+      "capacity": 375249884,
+      "channelCount": 52,
+      "rankCapacity": 97,
+      "rankChannelCount": 219,
+      "rankAge": 935,
+      "rankGrowth": 2061,
+      "rankAvailability": 1372
+    },
+    {
+      "score": 8695652,
+      "alias": "Gridflare",
+      "publicKey": "02e2bf9e87c7ba0ea046882d9b3301ca9a3b049aa920dccbd836c4008eac32d4e5",
+      "addresses": [
+        "192.99.166.11:9735"
+      ],
+      "color": "#00eeff",
+      "capacity": 54359246,
+      "channelCount": 29,
+      "rankCapacity": 430,
+      "rankChannelCount": 404,
+      "rankAge": 2924,
+      "rankGrowth": 343,
+      "rankAvailability": 865
+    },
+    {
+      "score": 8695652,
+      "alias": "www.lightningcentral.com",
+      "publicKey": "02f727419f6756954fbf17d4ada36e6180e05c17c50d7442ef160ed50b90e6af52",
+      "addresses": [
+        "3.225.115.244:9735"
+      ],
+      "color": "#1b30a4",
+      "capacity": 39893070,
+      "channelCount": 32,
+      "rankCapacity": 544,
+      "rankChannelCount": 361,
+      "rankAge": 6340,
+      "rankGrowth": 357,
+      "rankAvailability": 340
+    },
+    {
+      "score": 13043478,
+      "alias": "ShepSoft",
+      "publicKey": "02fc845f19505d6207d0f426ce40cd3a43dc319af2f32674465f1f428821f5b6d5",
+      "addresses": [
+        "h5pvxnudx2wligpbd24jc3c2a2nebw2ayhvjvymu7qoukbjxcuhevjyd.onion:9735"
+      ],
+      "color": "#9900cc",
+      "capacity": 203680675,
+      "channelCount": 25,
+      "rankCapacity": 163,
+      "rankChannelCount": 481,
+      "rankAge": 5874,
+      "rankGrowth": 6231,
+      "rankAvailability": 3566
+    },
+    {
+      "score": 8695652,
+      "alias": "UK",
+      "publicKey": "02fddf32431a008fc3bd6c8e36b1a82dd26614ad14c5dab31ccccd2e51ecf1f1b0",
+      "addresses": [
+        "86.0.196.72:9735"
+      ],
+      "color": "#68f442",
+      "capacity": 69127317,
+      "channelCount": 39,
+      "rankCapacity": 361,
+      "rankChannelCount": 288,
+      "rankAge": 5958,
+      "rankGrowth": 1140,
+      "rankAvailability": 361
+    },
+    {
+      "score": 13043478,
+      "alias": "citadel21",
+      "publicKey": "03005b000a0ed2b172e7608b062bfe2be18df54769a246941b2cebb5ff2658bb83",
+      "addresses": [
+        "170.75.164.184:9735",
+        "y34dhlyomx4bcfslm3426n6v3noafclxex2qilw3kyhdjhigtrstsvqd.onion:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 386561454,
+      "channelCount": 154,
+      "rankCapacity": 96,
+      "rankChannelCount": 72,
+      "rankAge": 6054,
+      "rankGrowth": 185,
+      "rankAvailability": 154
+    },
+    {
+      "score": 8695652,
+      "alias": "raspir3kt",
+      "publicKey": "030365ca0e656453e44b7da30d2643f1f6183cfe2a3bdb59b69aa8bde1136ca758",
+      "addresses": [
+        "hagjl4ekjfxahv27br7rgwmmy5xap3crx4ff3hhq4zpa26qayhpbseid.onion:9735"
+      ],
+      "color": "#68f442",
+      "capacity": 53537437,
+      "channelCount": 27,
+      "rankCapacity": 438,
+      "rankChannelCount": 441,
+      "rankAge": 5052,
+      "rankGrowth": 581,
+      "rankAvailability": 2591
+    },
+    {
+      "score": 60869565,
+      "alias": "LNBIG.com [lnd-25]",
+      "publicKey": "0303a518845db99994783f606e6629e705cfaf072e5ce9a4d8bf9e249de4fbd019",
+      "addresses": [
+        "213.174.156.69:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 1756350764,
+      "channelCount": 284,
+      "rankCapacity": 32,
+      "rankChannelCount": 35,
+      "rankAge": 1935,
+      "rankGrowth": 9975,
+      "rankAvailability": 301
+    },
+    {
+      "score": 13043478,
+      "alias": "KIWILAMB",
+      "publicKey": "03094b63a5ece2c363ab859952017f95bec7bd9e6975f0c8152f9eff83d0b045c2",
+      "addresses": [
+        "203.118.186.226:9735"
+      ],
+      "color": "#ff4500",
+      "capacity": 81816124,
+      "channelCount": 35,
+      "rankCapacity": 325,
+      "rankChannelCount": 319,
+      "rankAge": 2570,
+      "rankGrowth": 230,
+      "rankAvailability": 379
+    },
+    {
+      "score": 13043478,
+      "alias": "Striker",
+      "publicKey": "030b04c5d37b8cb3acd324edefed38e170d355c8f0953718307b894321d576615f",
+      "addresses": [
+        "74.108.25.169:9735"
+      ],
+      "color": "#010000",
+      "capacity": 156327874,
+      "channelCount": 53,
+      "rankCapacity": 199,
+      "rankChannelCount": 210,
+      "rankAge": 2578,
+      "rankGrowth": 9328,
+      "rankAvailability": 872
+    },
+    {
+      "score": 8695652,
+      "alias": "Tatooine",
+      "publicKey": "03011e480a671ac71dbc3fc3e8fe0db32bb9a10cc4d824663e09557d446ef80679",
+      "addresses": [
+        "93.107.153.162:9735"
+      ],
+      "color": "#68f442",
+      "capacity": 98412215,
+      "channelCount": 26,
+      "rankCapacity": 279,
+      "rankChannelCount": 461,
+      "rankAge": 7404,
+      "rankGrowth": 1135,
+      "rankAvailability": 75
+    },
+    {
+      "score": 30434782,
+      "alias": "River Financial",
+      "publicKey": "03037dc08e9ac63b82581f79b662a4d0ceca8a8ca162b1af3551595b8f2d97b70a",
+      "addresses": [
+        "104.196.249.140:9735"
+      ],
+      "color": "#e2be79",
+      "capacity": 1411637090,
+      "channelCount": 109,
+      "rankCapacity": 49,
+      "rankChannelCount": 97,
+      "rankAge": 4428,
+      "rankGrowth": 11,
+      "rankAvailability": 279
+    },
+    {
+      "score": 78260869,
+      "alias": "LNBIG.com [lnd-28]",
+      "publicKey": "030995c0c0217d763c2274aa6ed69a0bb85fa2f7d118f93631550f3b6219a577f5",
+      "addresses": [
+        "213.174.156.72:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 1798775405,
+      "channelCount": 316,
+      "rankCapacity": 27,
+      "rankChannelCount": 26,
+      "rankAge": 1932,
+      "rankGrowth": 9985,
+      "rankAvailability": 165
+    },
+    {
+      "score": 8695652,
+      "alias": "hodl-lightning-mainnet",
+      "publicKey": "030bde3ee226b7cf456703811976e4241a929d11e5fc0549e9a1c6d10a8e23a738",
+      "addresses": [
+        "178.63.16.7:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 129649721,
+      "channelCount": 48,
+      "rankCapacity": 225,
+      "rankChannelCount": 243,
+      "rankAge": 3691,
+      "rankGrowth": 9862,
+      "rankAvailability": 4835
+    },
+    {
+      "score": 52173913,
+      "alias": "fahrenheit451",
+      "publicKey": "0309bd6a02c71f288977b15ec3ac7283cfdd3d17dde65732981d5a718aa5fb0ebc",
+      "addresses": [
+        "167.71.204.250:9735",
+        "nv2arux4hwbyzh6mn6kf3cgogjyltunthyhqhezb72t5kndzfhiebjyd.onion:9735"
+      ],
+      "color": "#000000",
+      "capacity": 2087865710,
+      "channelCount": 240,
+      "rankCapacity": 17,
+      "rankChannelCount": 51,
+      "rankAge": 6182,
+      "rankGrowth": 12,
+      "rankAvailability": 71
+    },
+    {
+      "score": 8695652,
+      "alias": "Bitlord",
+      "publicKey": "030a107a2952bb8f574c8a38ec6e621b8b7f46514bd46d102ac48bc3de3b5a9768",
+      "addresses": [
+        "173.66.5.31:9735"
+      ],
+      "color": "#ffa940",
+      "capacity": 178327213,
+      "channelCount": 35,
+      "rankCapacity": 180,
+      "rankChannelCount": 326,
+      "rankAge": 7302,
+      "rankGrowth": 1139,
+      "rankAvailability": 66
+    },
+    {
+      "score": 8695652,
+      "alias": "patrickulrich",
+      "publicKey": "0309de1dcfe75b5e710fe3da834d50b7cdc262f7ead1a2cd8b224a82aa7a8f344e",
+      "addresses": [
+        "170.75.160.30:9735",
+        "3a2zqm47vj3mungkp53n2ct4hnbs5lkcbg3xahm2ce4jgsg3wrhjxaid.onion:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 36352725,
+      "channelCount": 14,
+      "rankCapacity": 581,
+      "rankChannelCount": 895,
+      "rankAge": 5365,
+      "rankGrowth": 5806,
+      "rankAvailability": 870
+    },
+    {
+      "score": 47826086,
+      "alias": "HashQuark03",
+      "publicKey": "030f2c70ce2e9a0aa20457f0e26be4f768f5e0e5b12ae81e5814145f52ecc6d1ec",
+      "addresses": [
+        "128.1.134.41:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 639725011,
+      "channelCount": 114,
+      "rankCapacity": 71,
+      "rankChannelCount": 91,
+      "rankAge": 5868,
+      "rankGrowth": 239,
+      "rankAvailability": 221
+    },
+    {
+      "score": 8695652,
+      "alias": "Bitrefill.com",
+      "publicKey": "030c3f19d742ca294a55c00376b3b355c3c90d61c6b6b39554dbc7ac19b141c14f",
+      "addresses": [
+        "52.50.244.44:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 6185890170,
+      "channelCount": 341,
+      "rankCapacity": 4,
+      "rankChannelCount": 22,
+      "rankAge": 1648,
+      "rankGrowth": 9965,
+      "rankAvailability": 22
+    },
+    {
+      "score": 21739130,
+      "alias": "LNBIG.com [lnd-42]",
+      "publicKey": "0311cad0edf4ac67298805cf4407d94358ca60cd44f2e360856f3b1c088bcd4782",
+      "addresses": [
+        "213.174.156.86:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 1624163729,
+      "channelCount": 253,
+      "rankCapacity": 39,
+      "rankChannelCount": 45,
+      "rankAge": 1937,
+      "rankGrowth": 9984,
+      "rankAvailability": 245
+    },
+    {
+      "score": 17391304,
+      "alias": "lndhub.de",
+      "publicKey": "030f9671a1d0ab1397df027b4ad1e5f1b41a8db85571b545e8afec168cba41ffc4",
+      "addresses": [
+        "y5h2a2enegwpqxbaeeav5r5gn4oytvlswcujlx6pnpctwtde3i4tfaad.onion:9735"
+      ],
+      "color": "#68f442",
+      "capacity": 107700000,
+      "channelCount": 30,
+      "rankCapacity": 257,
+      "rankChannelCount": 398,
+      "rankAge": 7086,
+      "rankGrowth": 144,
+      "rankAvailability": 508
+    },
+    {
+      "score": 56521739,
+      "alias": "Breez",
+      "publicKey": "031015a7839468a3c266d662d5bb21ea4cea24226936e2864a7ca4f2c3939836e0",
+      "addresses": [
+        "212.129.58.219:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 1550781354,
+      "channelCount": 172,
+      "rankCapacity": 43,
+      "rankChannelCount": 66,
+      "rankAge": 2152,
+      "rankGrowth": 49,
+      "rankAvailability": 16
+    },
+    {
+      "score": 13043478,
+      "alias": "BANANABITZ",
+      "publicKey": "0312d61bdeeaf335423453dfb45bb9f091f8fa1459b7e99c21d43d47e5fe714fae",
+      "addresses": [
+        "jcrqognvm4b5l4m2udanrdtjo2vljgj6nuezpd6f35ogbs42ztq6e2id.onion:9735"
+      ],
+      "color": "#ffe135",
+      "capacity": 185554775,
+      "channelCount": 35,
+      "rankCapacity": 172,
+      "rankChannelCount": 327,
+      "rankAge": 9091,
+      "rankGrowth": 51,
+      "rankAvailability": 191
+    },
+    {
+      "score": 39130434,
+      "alias": "LNBIG.com [lnd-05]",
+      "publicKey": "031ce29116eab7edd66148f5169f1fb658fad62bdc5091221ab895fe5d36db00b2",
+      "addresses": [
+        "46.229.165.140:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 1750367652,
+      "channelCount": 279,
+      "rankCapacity": 34,
+      "rankChannelCount": 37,
+      "rankAge": 1938,
+      "rankGrowth": 9960,
+      "rankAvailability": 212
+    },
+    {
+      "score": 26086956,
+      "alias": "ion.radar.tech",
+      "publicKey": "0318070901e08df311cdc6cdb8a0b4a43a3690c5b32d1fb9d8e99d1a625a65e5f2",
+      "addresses": [
+        "3.16.193.211:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 608613981,
+      "channelCount": 143,
+      "rankCapacity": 74,
+      "rankChannelCount": 77,
+      "rankAge": 3108,
+      "rankGrowth": 118,
+      "rankAvailability": 142
+    },
+    {
+      "score": 13043478,
+      "alias": "LightningPartners",
+      "publicKey": "031567fdf33cb9b4ab081019199295ffce38218751842a403e9fcf48778e4c3022",
+      "addresses": [
+        "142.93.141.68:9735"
+      ],
+      "color": "#24913d",
+      "capacity": 123620128,
+      "channelCount": 41,
+      "rankCapacity": 239,
+      "rankChannelCount": 276,
+      "rankAge": 2635,
+      "rankGrowth": 1149,
+      "rankAvailability": 714
+    },
+    {
+      "score": 17391304,
+      "alias": "BergenLNDcraeful",
+      "publicKey": "03205b045b0126c0d3fb826a38b9befc4babf51689544908c704d8e51fdec75ffb",
+      "addresses": [
+        "84.215.99.160:9735"
+      ],
+      "color": "#68f442",
+      "capacity": 156698008,
+      "channelCount": 64,
+      "rankCapacity": 198,
+      "rankChannelCount": 169,
+      "rankAge": 1724,
+      "rankGrowth": 219,
+      "rankAvailability": 285
+    },
+    {
+      "score": 21739130,
+      "alias": "lnmarkets.com",
+      "publicKey": "03271338633d2d37b285dae4df40b413d8c6c791fbee7797bc5dc70812196d7d5c",
+      "addresses": [
+        "3.95.117.200:9735",
+        "heoznd3w4xvmiiihykdhviegejnvhzgoyfzhucx5n2cgvlsp3fkpvpad.onion:9735"
+      ],
+      "color": "#327aff",
+      "capacity": 1438459689,
+      "channelCount": 232,
+      "rankCapacity": 48,
+      "rankChannelCount": 55,
+      "rankAge": 5006,
+      "rankGrowth": 154,
+      "rankAvailability": 80
+    },
+    {
+      "score": 13043478,
+      "alias": "nmjcu",
+      "publicKey": "0326968a0d33f7b57b4997a5aee7681c429d2470b3e04a5974f54230f84edf9899",
+      "addresses": [
+        "52.15.160.165:9735"
+      ],
+      "color": "#00c300",
+      "capacity": 79837225,
+      "channelCount": 12,
+      "rankCapacity": 331,
+      "rankChannelCount": 1076,
+      "rankAge": 6133,
+      "rankGrowth": 6442,
+      "rankAvailability": 1398
+    },
+    {
+      "score": 13043478,
+      "alias": "moneni.com",
+      "publicKey": "03295d2e292565743a40bd44da227a820f8730877bc3dfadebade8785bcf355258",
+      "addresses": [
+        "159.203.122.47:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 476885780,
+      "channelCount": 141,
+      "rankCapacity": 85,
+      "rankChannelCount": 78,
+      "rankAge": 267,
+      "rankGrowth": 9641,
+      "rankAvailability": 452
+    },
+    {
+      "score": 21739130,
+      "alias": "BitBargain.co.uk",
+      "publicKey": "032271efcb35188ef00e3f28469a2bb18b50a5f2f325bd130bdac341af24e9b5f0",
+      "addresses": [
+        "37.221.209.222:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 122429643,
+      "channelCount": 29,
+      "rankCapacity": 242,
+      "rankChannelCount": 402,
+      "rankAge": 659,
+      "rankGrowth": 618,
+      "rankAvailability": 718
+    },
+    {
+      "score": 13043478,
+      "alias": "BitcoinBeach",
+      "publicKey": "0325bb9bda523a85dc834b190289b7e25e8d92615ab2f2abffbe97983f0bb12ffb",
+      "addresses": [
+        "35.188.203.196:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 217711111,
+      "channelCount": 15,
+      "rankCapacity": 153,
+      "rankChannelCount": 820,
+      "rankAge": 5985,
+      "rankGrowth": 6324,
+      "rankAvailability": 328
+    },
+    {
+      "score": 13043478,
+      "alias": "0nion ringz",
+      "publicKey": "03258bfe463f49ac9d91948bbde2aabacc8c444373642801b2b15e7a16672061e8",
+      "addresses": [
+        "x7lqg52jx7jv3euh67y6x24mgcjdkhhmotebcyoxih4s6xqpzluqtjqd.onion:9735"
+      ],
+      "color": "#000000",
+      "capacity": 38197632,
+      "channelCount": 12,
+      "rankCapacity": 557,
+      "rankChannelCount": 1079,
+      "rankAge": 6278,
+      "rankGrowth": 6566,
+      "rankAvailability": 1873
+    },
+    {
+      "score": 8695652,
+      "alias": "LN-ZORO-01",
+      "publicKey": "0323f3d268a7664152c0732d5d1faf2c80dc8d8529895378344d1c395e9ec407e1",
+      "addresses": [
+        "hiff7zogplpryw2wovok5hwqtgmbznm7g5vicmd4tcw7oc3ilnpo6yad.onion:9735"
+      ],
+      "color": "#68f442",
+      "capacity": 205000000,
+      "channelCount": 17,
+      "rankCapacity": 161,
+      "rankChannelCount": 724,
+      "rankAge": 5885,
+      "rankGrowth": 6240,
+      "rankAvailability": 1871
+    },
+    {
+      "score": 8695652,
+      "alias": "skyrus.net",
+      "publicKey": "031e47777e35627e1018bc886ee24f81633a54527cfce24df0183a8fee7b3a24ef",
+      "addresses": [
+        "47.189.52.213:9735"
+      ],
+      "color": "#00b36b",
+      "capacity": 39391106,
+      "channelCount": 35,
+      "rankCapacity": 549,
+      "rankChannelCount": 313,
+      "rankAge": 1718,
+      "rankGrowth": 222,
+      "rankAvailability": 1394
+    },
+    {
+      "score": 100000000,
+      "alias": "LNBIG.com [lnd-03]",
+      "publicKey": "032679fec1213e5b0a23e066c019d7b991b95c6e4d28806b9ebd1362f9e32775cf",
+      "addresses": [
+        "46.229.165.139:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 2100285218,
+      "channelCount": 339,
+      "rankCapacity": 14,
+      "rankChannelCount": 23,
+      "rankAge": 1924,
+      "rankGrowth": 10001,
+      "rankAvailability": 112
+    },
+    {
+      "score": 65217391,
+      "alias": "Sagittarius A*",
+      "publicKey": "032434517e28f7b51665a525d5e11fa493bd4e30a59883b8156c2be4085f4aaf70",
+      "addresses": [
+        "46.6.13.151:9735"
+      ],
+      "color": "#ff9000",
+      "capacity": 318810729,
+      "channelCount": 108,
+      "rankCapacity": 110,
+      "rankChannelCount": 99,
+      "rankAge": 3393,
+      "rankGrowth": 4155,
+      "rankAvailability": 327
+    },
+    {
+      "score": 17391304,
+      "alias": "glr.com.py",
+      "publicKey": "032cc4541b25e86e39a7d450a979c1a9adbe2878df3a93fcb59c96c700bfe26aa3",
+      "addresses": [
+        "186.2.195.217:9736",
+        "qt3gn3lzwq5fe5obgo3y7ey3twiq43b7ifb57k666vulp2whe54rboqd.onion:9735"
+      ],
+      "color": "#5f04c0",
+      "capacity": 421261027,
+      "channelCount": 236,
+      "rankCapacity": 90,
+      "rankChannelCount": 52,
+      "rankAge": 2070,
+      "rankGrowth": 9642,
+      "rankAvailability": 135
+    },
+    {
+      "score": 8695652,
+      "alias": "wavylabs",
+      "publicKey": "033181a72d4d61c6f3138240d98994e9553726bc65c892e9fe7a7b728a54005a36",
+      "addresses": [
+        "137.74.107.152:9735",
+        "vwdwftzfm6dyra4dhozss4ybkrzereui4xve7ttqqhwfzxvkckmlgrqd.onion:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 137041999,
+      "channelCount": 18,
+      "rankCapacity": 219,
+      "rankChannelCount": 667,
+      "rankAge": 1872,
+      "rankGrowth": 9873,
+      "rankAvailability": 5175
+    },
+    {
+      "score": 17391304,
+      "alias": "VersionNegativeOne",
+      "publicKey": "0327e003e3c742db9a77f436e672bd42bd4a302ec0f92f0486c4fe09143bcfb0b9",
+      "addresses": [
+        "205.178.116.32:9735"
+      ],
+      "color": "#68f442",
+      "capacity": 327871168,
+      "channelCount": 66,
+      "rankCapacity": 108,
+      "rankChannelCount": 160,
+      "rankAge": 260,
+      "rankGrowth": 1133,
+      "rankAvailability": 313
+    },
+    {
+      "score": 13043478,
+      "alias": "SLICKERBOUNCE",
+      "publicKey": "0337694505123a12a8fadd95523dcc235898ad3b80a06e4a63ca26fed68dd0d17c",
+      "addresses": [
+        "wxncxoao56wshw2vcsyd3jjtatistwvunrmogltid4upp5k32q4liyid.onion:9735"
+      ],
+      "color": "#033769",
+      "capacity": 213114788,
+      "channelCount": 50,
+      "rankCapacity": 155,
+      "rankChannelCount": 232,
+      "rankAge": 6679,
+      "rankGrowth": 170,
+      "rankAvailability": 3717
+    },
+    {
+      "score": 8695652,
+      "alias": "lndeu0.zaphq.io",
+      "publicKey": "0335e4265f783f37378e969c6a123557cf5d22cc97ec42ea3abff5dfaa64afea83",
+      "addresses": [
+        "35.185.71.149:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 50000000,
+      "channelCount": 14,
+      "rankCapacity": 463,
+      "rankChannelCount": 926,
+      "rankAge": 8403,
+      "rankGrowth": 8375,
+      "rankAvailability": 1133
+    },
+    {
+      "score": 26086956,
+      "alias": "CyberSats",
+      "publicKey": "033f6152ad78709985dc9bf7fbbddf2ea0255dd60c97205bb1dcec2db4185baa1a",
+      "addresses": [
+        "qbk25sae4q3zomkj236ez7wu2qhu6cr5jwy3twb6knl7cirhv4jdzzyd.onion:9735"
+      ],
+      "color": "#8865df",
+      "capacity": 228171705,
+      "channelCount": 36,
+      "rankCapacity": 149,
+      "rankChannelCount": 307,
+      "rankAge": 5111,
+      "rankGrowth": 9762,
+      "rankAvailability": 1900
+    },
+    {
+      "score": 8695652,
+      "alias": "[Paywall.Link] [LNPay.co]",
+      "publicKey": "033868c219bdb51a33560d854d500fe7d3898a1ad9e05dd89d0007e11313588500",
+      "addresses": [
+        "52.204.16.4:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 194733115,
+      "channelCount": 53,
+      "rankCapacity": 167,
+      "rankChannelCount": 212,
+      "rankAge": 3028,
+      "rankGrowth": 9997,
+      "rankAvailability": 201
+    },
+    {
+      "score": 8695652,
+      "alias": "BitDice.me Provably Fair Casino",
+      "publicKey": "034b7b1b6f9d6c98c5db180a65987f407d46da3bbc706d5e7e326b1167310cd542",
+      "addresses": [
+        "95.216.68.44:9735"
+      ],
+      "color": "#21232f",
+      "capacity": 171732371,
+      "channelCount": 34,
+      "rankCapacity": 186,
+      "rankChannelCount": 332,
+      "rankAge": 3020,
+      "rankGrowth": 565,
+      "rankAvailability": 789
+    },
+    {
+      "score": 100000000,
+      "alias": "bfx-lnd0",
+      "publicKey": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "addresses": [
+        "34.65.85.39:9735"
+      ],
+      "color": "#16b157",
+      "capacity": 6816419450,
+      "channelCount": 502,
+      "rankCapacity": 3,
+      "rankChannelCount": 13,
+      "rankAge": 4613,
+      "rankGrowth": 61,
+      "rankAvailability": 60
+    },
+    {
+      "score": 8695652,
+      "alias": "OrangeLantern",
+      "publicKey": "03465f79f840a1169e2b4cb42d684e1723af861b8a82336aa72f9766643a6ef4e4",
+      "addresses": [
+        "fg7lawzmhkrzv2oa63xgtz2z5wvmczkcm2xytmngxycl2lyp3kckueyd.onion:9735"
+      ],
+      "color": "#ff9900",
+      "capacity": 65974825,
+      "channelCount": 39,
+      "rankCapacity": 375,
+      "rankChannelCount": 285,
+      "rankAge": 2027,
+      "rankGrowth": 356,
+      "rankAvailability": 425
+    },
+    {
+      "score": 13043478,
+      "alias": "KashyyykWineCellar",
+      "publicKey": "0337a42a4384c331258f7fa53697f27dbc1596a689fe77923d31b8e7a6f5960929",
+      "addresses": [
+        "fs2qj6x76vapeweh72d7uccjxvcgskndih6in2ei2rzr277nj6eermid.onion:9735"
+      ],
+      "color": "#68f442",
+      "capacity": 34997138,
+      "channelCount": 14,
+      "rankCapacity": 592,
+      "rankChannelCount": 916,
+      "rankAge": 7044,
+      "rankGrowth": 7218,
+      "rankAvailability": 1410
+    },
+    {
+      "score": 8695652,
+      "alias": "OljadBlixt",
+      "publicKey": "035d89677a2af4b4c7b6905505c9b060f9d7ac572c847fddab1e26301d09802004",
+      "addresses": [
+        "n5hddkmgycsl23276rgc535uiyyt3aqbd2tptbijyr7cq7fcyaeotiad.onion:9735"
+      ],
+      "color": "#68f442",
+      "capacity": 34516288,
+      "channelCount": 12,
+      "rankCapacity": 598,
+      "rankChannelCount": 1071,
+      "rankAge": 5925,
+      "rankGrowth": 6273,
+      "rankAvailability": 658
+    },
+    {
+      "score": 21739130,
+      "alias": "Arcane Crypto - Teslacoil",
+      "publicKey": "033fa9b1124f3633283581514ce22a13bdecb5bacc0d097fb0d607b8fbdf0135c0",
+      "addresses": [
+        "138.201.131.241:9735"
+      ],
+      "color": "#132237",
+      "capacity": 370614832,
+      "channelCount": 63,
+      "rankCapacity": 99,
+      "rankChannelCount": 172,
+      "rankAge": 3334,
+      "rankGrowth": 158,
+      "rankAvailability": 344
+    },
+    {
+      "score": 8695652,
+      "alias": "Scotese Lightning node",
+      "publicKey": "03525a26e79adf5793bb9e2747ea7d0d925bf8157362148f3b5da6e1c855be07bf",
+      "addresses": [
+        "76.174.129.203:9735"
+      ],
+      "color": "#d818f0",
+      "capacity": 35630167,
+      "channelCount": 14,
+      "rankCapacity": 588,
+      "rankChannelCount": 870,
+      "rankAge": 2363,
+      "rankGrowth": 3294,
+      "rankAvailability": 5537
+    },
+    {
+      "score": 100000000,
+      "alias": "LNBIG.com [lnd-12]",
+      "publicKey": "034ea80f8b148c750463546bd999bf7321a0e6dfc60aaf84bd0400a2e8d376c0d5",
+      "addresses": [
+        "46.229.165.151:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 1581577894,
+      "channelCount": 218,
+      "rankCapacity": 42,
+      "rankChannelCount": 56,
+      "rankAge": 3403,
+      "rankGrowth": 9990,
+      "rankAvailability": 364
+    },
+    {
+      "score": 39130434,
+      "alias": "Buda.com",
+      "publicKey": "033fc997c1622281b143fce0cce0711f18fdc8129684840b835d6a4c5ef9d49ddf",
+      "addresses": [
+        "34.73.199.158:9735"
+      ],
+      "color": "#5293fc",
+      "capacity": 287531263,
+      "channelCount": 37,
+      "rankCapacity": 118,
+      "rankChannelCount": 303,
+      "rankAge": 4049,
+      "rankGrowth": 340,
+      "rankAvailability": 511
+    },
+    {
+      "score": 8695652,
+      "alias": "🧀",
+      "publicKey": "033dd79123e7c386655f72d3eed186c071ef3b4a625d3fb9f613635e6483ff6823",
+      "addresses": [
+        "116.202.170.226:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 116521989,
+      "channelCount": 52,
+      "rankCapacity": 248,
+      "rankChannelCount": 217,
+      "rankAge": 302,
+      "rankGrowth": 9311,
+      "rankAvailability": 546
+    },
+    {
+      "score": 21739130,
+      "alias": "Babylon-4a",
+      "publicKey": "0340cfadaa3324e0dd176a9969be050114278f93260e1b6333bd2a2a2ea03c64a3",
+      "addresses": [
+        "73.200.139.162:9739"
+      ],
+      "color": "#49deaa",
+      "capacity": 303772701,
+      "channelCount": 53,
+      "rankCapacity": 113,
+      "rankChannelCount": 215,
+      "rankAge": 5813,
+      "rankGrowth": 9950,
+      "rankAvailability": 237
+    },
+    {
+      "score": 56521739,
+      "alias": "LNBIG.com [lnd-11]",
+      "publicKey": "033e9ce4e8f0e68f7db49ffb6b9eecc10605f3f3fcb3c630545887749ab515b9c7",
+      "addresses": [
+        "46.229.165.150:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 1641195233,
+      "channelCount": 241,
+      "rankCapacity": 37,
+      "rankChannelCount": 48,
+      "rankAge": 3402,
+      "rankGrowth": 9979,
+      "rankAvailability": 175
+    },
+    {
+      "score": 8695652,
+      "alias": "DANGERZONE",
+      "publicKey": "034653a43cb5857d6f75ff19866e27a8e03355827bf6036fd8d3c9478a37e33813",
+      "addresses": [
+        "104.248.136.82:9734"
+      ],
+      "color": "#0099ff",
+      "capacity": 91851840,
+      "channelCount": 21,
+      "rankCapacity": 296,
+      "rankChannelCount": 550,
+      "rankAge": 1963,
+      "rankGrowth": 550,
+      "rankAvailability": 1421
+    },
+    {
+      "score": 26086956,
+      "alias": "btc21m",
+      "publicKey": "035430a842187f9d27d639b05151f2100fb3e8370a0375e3c1c0ca8257cbe054d4",
+      "addresses": [
+        "fftz6ctxdnd2io7bhi3yodx2onuzf7t5teh5rvqzmfdggskxybx3kkqd.onion:9735"
+      ],
+      "color": "#68f442",
+      "capacity": 127435151,
+      "channelCount": 15,
+      "rankCapacity": 231,
+      "rankChannelCount": 824,
+      "rankAge": 6335,
+      "rankGrowth": 6611,
+      "rankAvailability": 1927
+    },
+    {
+      "score": 17391304,
+      "alias": "kungmeow",
+      "publicKey": "0360a41eb8c3fe09782ef6c984acbb003b0e1ebc4fe10ae01bab0e80d76618c8f4",
+      "addresses": [
+        "73.31.42.95:9735",
+        "pdk6ttxueopv4jxfazk2fhcjnqx32zgodqymzygulbnr2rnnpgnj2wqd.onion:9735"
+      ],
+      "color": "#68f442",
+      "capacity": 229484624,
+      "channelCount": 46,
+      "rankCapacity": 148,
+      "rankChannelCount": 256,
+      "rankAge": 4794,
+      "rankGrowth": 5334,
+      "rankAvailability": 793
+    },
+    {
+      "score": 34782608,
+      "alias": "WalletOfSatoshi.com",
+      "publicKey": "035e4ff418fc8b5554c5d9eea66396c227bd429a3251c8cbc711002ba215bfc226",
+      "addresses": [
+        "170.75.163.209:9735",
+        "zlf6ewzg3wdpq5wvkrtvqc2x63qieb5j3pbesonkxqr7qhtapdss3vyd.onion:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 2272738537,
+      "channelCount": 185,
+      "rankCapacity": 12,
+      "rankChannelCount": 62,
+      "rankAge": 6375,
+      "rankGrowth": 48,
+      "rankAvailability": 32
+    },
+    {
+      "score": 17391304,
+      "alias": "LNBIG.com [lnd-13]",
+      "publicKey": "035f5236d7e6c6d16107c1f86e4514e6ccdd6b2c13c2abc1d7a83cd26ecb4c1d0e",
+      "addresses": [
+        "46.229.165.152:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 1851511893,
+      "channelCount": 235,
+      "rankCapacity": 24,
+      "rankChannelCount": 53,
+      "rankAge": 3404,
+      "rankGrowth": 9980,
+      "rankAvailability": 365
+    },
+    {
+      "score": 8695652,
+      "alias": "chupi",
+      "publicKey": "0367e072b7b6e40e5df3fbf8701bf1bc7efce021a5702dac7d0a9be7bb59f1f01c",
+      "addresses": [
+        "112.118.106.148:9735",
+        "wu5mkpokybtbf6dwdaepnujbzxpm6mqqqm2hwob6ndt5k74iujd2pdyd.onion:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 132253745,
+      "channelCount": 30,
+      "rankCapacity": 223,
+      "rankChannelCount": 385,
+      "rankAge": 1628,
+      "rankGrowth": 9585,
+      "rankAvailability": 4849
+    },
+    {
+      "score": 8695652,
+      "alias": "037b3340c93ec145c4cc",
+      "publicKey": "037b3340c93ec145c4cc960762e0f22902e9412484ead2fce9ce275f6e8409b212",
+      "addresses": [
+        "7dy4scnov7znnsngtaeetkgnmolefuys6t5u7jacaznffy4f7q3smuad.onion:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 19918050,
+      "channelCount": 14,
+      "rankCapacity": 842,
+      "rankChannelCount": 917,
+      "rankAge": 7245,
+      "rankGrowth": 591,
+      "rankAvailability": 481
+    },
+    {
+      "score": 26086956,
+      "alias": "ln.nicehash.com [Nicehash]",
+      "publicKey": "037659a0ac8eb3b8d0a720114efc861d3a940382dcfa1403746b4f8f6b2e8810ba",
+      "addresses": [
+        "172.65.217.219:9735"
+      ],
+      "color": "#cf1b99",
+      "capacity": 703968928,
+      "channelCount": 147,
+      "rankCapacity": 65,
+      "rankChannelCount": 76,
+      "rankAge": 5826,
+      "rankGrowth": 17,
+      "rankAvailability": 44
+    },
+    {
+      "score": 8695652,
+      "alias": "BikiniMitte",
+      "publicKey": "036d1103b67ac8c4c376c133123abd69e242dec3be10b4f0d2f63177b526e4e8fc",
+      "addresses": [
+        "172.81.180.182:9735",
+        "4ksyef5smq7mz2yibhidykoxwwlj3sxnzjcbklx4jyw773ch22lk4bid.onion:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 86091509,
+      "channelCount": 37,
+      "rankCapacity": 310,
+      "rankChannelCount": 302,
+      "rankAge": 2772,
+      "rankGrowth": 225,
+      "rankAvailability": 727
+    },
+    {
+      "score": 8695652,
+      "alias": "tthm4",
+      "publicKey": "035f209faaea75427949e3e6c1fc9edafbf751f08706506bb873fdc93ffc2d4e2c",
+      "addresses": [
+        "i25n2jtvhbqaznzgxuhtzigpjyqs2u3vqjmlglzn2najeux5f4lhqjqd.onion:9735"
+      ],
+      "color": "#42c8f4",
+      "capacity": 47875643,
+      "channelCount": 12,
+      "rankCapacity": 480,
+      "rankChannelCount": 1054,
+      "rankAge": 4374,
+      "rankGrowth": 4976,
+      "rankAvailability": 792
+    },
+    {
+      "score": 17391304,
+      "alias": "035eb7d2253d934b51dd",
+      "publicKey": "035eb7d2253d934b51dd1cc145b6f36a9c2d953c4379f5fff9c39bb437ece525ae",
+      "addresses": [
+        "95.217.180.216:9735",
+        "zl6jcqpqpvbpnvij5dfn4q6yolw4rztcvdnwr5lhrm3piybkyqdfamad.onion:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 105323335,
+      "channelCount": 33,
+      "rankCapacity": 265,
+      "rankChannelCount": 348,
+      "rankAge": 5984,
+      "rankGrowth": 379,
+      "rankAvailability": 1435
+    },
+    {
+      "score": 8695652,
+      "alias": "Bitcoin emBassy TLV",
+      "publicKey": "03649c72a4816f0cd546f84aafbd657e92a30ab474de7ab795e8b5650a427611f7",
+      "addresses": [
+        "142.93.124.241:9735",
+        "[2604:a880:400:d1::8bd:1001]:9735"
+      ],
+      "color": "#03649c",
+      "capacity": 247924768,
+      "channelCount": 66,
+      "rankCapacity": 137,
+      "rankChannelCount": 161,
+      "rankAge": 1625,
+      "rankGrowth": 2696,
+      "rankAvailability": 4735
+    },
+    {
+      "score": 13043478,
+      "alias": "lnd1.donatory.me",
+      "publicKey": "037e1439d8f1394d00868beeff636e42518a30b3ead303bb3ad4185b53e41d6d52",
+      "addresses": [
+        "116.203.4.18:9735"
+      ],
+      "color": "#871f78",
+      "capacity": 57030651,
+      "channelCount": 21,
+      "rankCapacity": 412,
+      "rankChannelCount": 553,
+      "rankAge": 2927,
+      "rankGrowth": 3758,
+      "rankAvailability": 1463
+    },
+    {
+      "score": 8695652,
+      "alias": "McNallyCloud",
+      "publicKey": "038118e0490f8d3df07b6bdc5e7034dee90d769012764d31bfeb167269866824f0",
+      "addresses": [
+        "73.31.14.186:9735"
+      ],
+      "color": "#2ba6cb",
+      "capacity": 138918181,
+      "channelCount": 16,
+      "rankCapacity": 214,
+      "rankChannelCount": 744,
+      "rankAge": 595,
+      "rankGrowth": 639,
+      "rankAvailability": 998
+    },
+    {
+      "score": 13043478,
+      "alias": "satsFuzor",
+      "publicKey": "03818e43b0c874916b7cc797bea7826d433fbf6936557237343ab7fd6951d77d60",
+      "addresses": [
+        "76.93.182.90:9735"
+      ],
+      "color": "#68f442",
+      "capacity": 35000000,
+      "channelCount": 13,
+      "rankCapacity": 591,
+      "rankChannelCount": 990,
+      "rankAge": 6758,
+      "rankGrowth": 6961,
+      "rankAvailability": 49
+    },
+    {
+      "score": 13043478,
+      "alias": "hirish-ln",
+      "publicKey": "036d81bb87af589f949dec53af1b3121c84048d0913eb56945cbbb62c5cb4fcb6f",
+      "addresses": [
+        "5.135.34.152:9735"
+      ],
+      "color": "#000000",
+      "capacity": 31329767,
+      "channelCount": 23,
+      "rankCapacity": 628,
+      "rankChannelCount": 507,
+      "rankAge": 358,
+      "rankGrowth": 548,
+      "rankAvailability": 795
+    },
+    {
+      "score": 17391304,
+      "alias": "Coherence [LND]",
+      "publicKey": "0378d8b9a46189371ece70870b39e8a80f80f952c967289d7234b99b176577a212",
+      "addresses": [
+        "23i25tj5dcpfx7ok6fkrfydryzsj25t2qw3f74jbwhmnzhol2avcbsqd.onion:9735"
+      ],
+      "color": "#68f442",
+      "capacity": 158099279,
+      "channelCount": 30,
+      "rankCapacity": 195,
+      "rankChannelCount": 392,
+      "rankAge": 4792,
+      "rankGrowth": 9711,
+      "rankAvailability": 598
+    },
+    {
+      "score": 39130434,
+      "alias": "fixedfloat.com",
+      "publicKey": "037f990e61acee8a7697966afd29dd88f3b1f8a7b14d625c4f8742bd952003a590",
+      "addresses": [
+        "185.5.53.91:9735"
+      ],
+      "color": "#053456",
+      "capacity": 1026988669,
+      "channelCount": 60,
+      "rankCapacity": 57,
+      "rankChannelCount": 186,
+      "rankAge": 2764,
+      "rankGrowth": 67,
+      "rankAvailability": 231
+    },
+    {
+      "score": 13043478,
+      "alias": "N4GN",
+      "publicKey": "038352cfcfbc3f53c9a8f469f8d881bf18d3519364aa98cf8f9a10e0171ad008f4",
+      "addresses": [
+        "170.75.162.64:9735",
+        "kwuw5tha2ujhyco4oxbqr6vdjdx42i3j2mtodkj45toz7iwjv3fkj5ad.onion:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 126695004,
+      "channelCount": 38,
+      "rankCapacity": 233,
+      "rankChannelCount": 294,
+      "rankAge": 5029,
+      "rankGrowth": 619,
+      "rankAvailability": 799
+    },
+    {
+      "score": 8695652,
+      "alias": "038775102258944fbad4",
+      "publicKey": "038775102258944fbad46ce629d453317ddf62dfd391e623e0db3efff0fb006762",
+      "addresses": [
+        "sassv7of3bov63hfvmahhywi32nkdqzj542groamfc7ochnvgmotzead.onion:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 24909378,
+      "channelCount": 14,
+      "rankCapacity": 728,
+      "rankChannelCount": 931,
+      "rankAge": 8942,
+      "rankGrowth": 8835,
+      "rankAvailability": 238
+    },
+    {
+      "score": 8695652,
+      "alias": "MUTATRUM",
+      "publicKey": "038bcc6471941c7d6c14a8ce5b7159d8f73a3a0bb9a93e8896bcb892e14552658a",
+      "addresses": [
+        "83.162.155.18:9735",
+        "ywp53vdxaabcujooqvwdcvkddkpp26shxk6ztxsxnwm76l2efu74mryd.onion:9735"
+      ],
+      "color": "#68f442",
+      "capacity": 173951580,
+      "channelCount": 63,
+      "rankCapacity": 181,
+      "rankChannelCount": 171,
+      "rankAge": 602,
+      "rankGrowth": 109,
+      "rankAvailability": 126
+    },
+    {
+      "score": 8695652,
+      "alias": "Bitcoinz4Zombiez",
+      "publicKey": "038adf725da5c1f08815cd22fdc575bcea8e59b36caac89b1818d2729294fa792f",
+      "addresses": [
+        "nq5eb6lwj7osxkij7iglt4mrmuym6oegsr3papm47ikzsyydu3tkavid.onion:9735"
+      ],
+      "color": "#337e16",
+      "capacity": 38163032,
+      "channelCount": 17,
+      "rankCapacity": 559,
+      "rankChannelCount": 716,
+      "rankAge": 4418,
+      "rankGrowth": 5014,
+      "rankAvailability": 2855
+    },
+    {
+      "score": 8695652,
+      "alias": "LNGAMES.NET",
+      "publicKey": "03952f8756c036669440e06c782c7f21732886ccf04052e0e6e792f8f5a490f6aa",
+      "addresses": [
+        "u7owwl22gbucrfsh.onion:9735",
+        "gg6hmicfn4uff6jc5p6fttperr4nkqstejqcruiuc6lrftrb7wuzf4ad.onion:9735"
+      ],
+      "color": "#ff8000",
+      "capacity": 70553426,
+      "channelCount": 19,
+      "rankCapacity": 353,
+      "rankChannelCount": 627,
+      "rankAge": 2452,
+      "rankGrowth": 574,
+      "rankAvailability": 4856
+    },
+    {
+      "score": 8695652,
+      "alias": "craigwrightisafraud",
+      "publicKey": "03a05771161ad3195fe4dda779f0b14c61fee2aab5f76638233780520a7460a80b",
+      "addresses": [
+        "uobejttjuorkj6y5.onion:9735"
+      ],
+      "color": "#68f442",
+      "capacity": 30620000,
+      "channelCount": 16,
+      "rankCapacity": 639,
+      "rankChannelCount": 764,
+      "rankAge": 4990,
+      "rankGrowth": 5495,
+      "rankAvailability": 899
+    },
+    {
+      "score": 8695652,
+      "alias": "ElAzufre",
+      "publicKey": "03919cafc20ef7c2e4bf49f8fda3b127944861f749a41496f96bf9a5ad2803cc00",
+      "addresses": [
+        "365wg52sf7a4vy4putv3gnjad3lnfgogs6ylljjxf7jaerpvy5fkopad.onion:9735"
+      ],
+      "color": "#68f442",
+      "capacity": 24216691,
+      "channelCount": 15,
+      "rankCapacity": 743,
+      "rankChannelCount": 810,
+      "rankAge": 4420,
+      "rankGrowth": 5016,
+      "rankAvailability": 1481
+    },
+    {
+      "score": 21739130,
+      "alias": "LNBIG.com [lnd-32]",
+      "publicKey": "039edc94987c8f3adc28dab455efc00dea876089a120f573bd0b03c40d9d3fb1e1",
+      "addresses": [
+        "213.174.156.76:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 1855755517,
+      "channelCount": 304,
+      "rankCapacity": 23,
+      "rankChannelCount": 29,
+      "rankAge": 1939,
+      "rankGrowth": 9989,
+      "rankAvailability": 222
+    },
+    {
+      "score": 17391304,
+      "alias": "OnionRouting @ramses_btc [nodl]",
+      "publicKey": "03949914687fadf3bca1abe088db2b9a5bc105194a36f230f7e54e90e88d2dc0ec",
+      "addresses": [
+        "dfn7tldhgct7xxtw6kjrp6ndjf5xqivaqdhj5djheeuhijeplrki4wid.onion:9735"
+      ],
+      "color": "#0000ff",
+      "capacity": 296472573,
+      "channelCount": 71,
+      "rankCapacity": 115,
+      "rankChannelCount": 150,
+      "rankAge": 3803,
+      "rankGrowth": 9323,
+      "rankAvailability": 602
+    },
+    {
+      "score": 17391304,
+      "alias": "BitMEXResearch",
+      "publicKey": "0395033b252c6f40e3756984162d68174e2bd8060a129c0d3462a9370471c6d28f",
+      "addresses": [
+        "35.184.216.240:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 713860283,
+      "channelCount": 577,
+      "rankCapacity": 64,
+      "rankChannelCount": 11,
+      "rankAge": 1861,
+      "rankGrowth": 9902,
+      "rankAvailability": 55
+    },
+    {
+      "score": 100000000,
+      "alias": "eclips.lnd",
+      "publicKey": "03957c801187ade4aaeee6ca1e3f23eeb7413a84558ff1f3543cb41f5f86da609a",
+      "addresses": [
+        "51.15.166.138:9735",
+        "nv64jmzb7qhiasthx5lspprauxt427pkfidmznpuvzkqq4asiaptfpqd.onion:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 607185530,
+      "channelCount": 71,
+      "rankCapacity": 75,
+      "rankChannelCount": 149,
+      "rankAge": 2046,
+      "rankGrowth": 509,
+      "rankAvailability": 663
+    },
+    {
+      "score": 100000000,
+      "alias": "LNBIG.com [lnd-01]",
+      "publicKey": "0390b5d4492dc2f5318e5233ab2cebf6d48914881a33ef6a9c6bcdbb433ad986d0",
+      "addresses": [
+        "46.229.165.136:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 2640117921,
+      "channelCount": 547,
+      "rankCapacity": 8,
+      "rankChannelCount": 12,
+      "rankAge": 1917,
+      "rankGrowth": 10002,
+      "rankAvailability": 58
+    },
+    {
+      "score": 8695652,
+      "alias": "ulrichard.ch",
+      "publicKey": "03a46be38d068c2bc5af3fc13da840790ed5643f3d6d27e5e34d67ed2aec16ce67",
+      "addresses": [
+        "151.248.220.127:9735"
+      ],
+      "color": "#03a46b",
+      "capacity": 28952181,
+      "channelCount": 18,
+      "rankCapacity": 670,
+      "rankChannelCount": 671,
+      "rankAge": 2524,
+      "rankGrowth": 3428,
+      "rankAvailability": 5367
+    },
+    {
+      "score": 8695652,
+      "alias": "雷神",
+      "publicKey": "03984d92cdc95dfc197c190f8d99af095089ce70e00757920a15625919e2f0dab5",
+      "addresses": [
+        "44v6owoygrcvs6c5bwy7ucz6waq3l7fdfe2ixvba7vfll44c3cn342id.onion:9735"
+      ],
+      "color": "#e4741f",
+      "capacity": 43324817,
+      "channelCount": 29,
+      "rankCapacity": 520,
+      "rankChannelCount": 401,
+      "rankAge": 204,
+      "rankGrowth": 571,
+      "rankAvailability": 731
+    },
+    {
+      "score": 8695652,
+      "alias": "Hashed Entropy",
+      "publicKey": "038f8302141b9b5e53d239578d8ee0699d4a3cb852f6e93ec43bdee7eebd115bef",
+      "addresses": [
+        "egvegtdqlz462lynjn72nqdh5z2aw5pqiuy5sjzhsm2vn36c7jcmx7yd.onion:9735"
+      ],
+      "color": "#68f442",
+      "capacity": 30080693,
+      "channelCount": 12,
+      "rankCapacity": 649,
+      "rankChannelCount": 1078,
+      "rankAge": 6276,
+      "rankGrowth": 6564,
+      "rankAvailability": 2866
+    },
+    {
+      "score": 17391304,
+      "alias": "Pinky",
+      "publicKey": "03a5886df676f3b3216a4520156157b8d653e262b520281d8d325c24fd8b456b9c",
+      "addresses": [
+        "188.165.2.4:9737",
+        "b2373soypnepgy3fog2tuclq4kabxsnwfj3c2yecryizdk72pajbkdqd.onion:9735"
+      ],
+      "color": "#e75480",
+      "capacity": 270104593,
+      "channelCount": 108,
+      "rankCapacity": 125,
+      "rankChannelCount": 98,
+      "rankAge": 2350,
+      "rankGrowth": 3281,
+      "rankAvailability": 605
+    },
+    {
+      "score": 34782608,
+      "alias": "Crypto-RiS",
+      "publicKey": "039f6f74de35652c3d804cd873f14cc858e26beb3fda9d14363bae40d94bc72fde",
+      "addresses": [
+        "77.22.229.2:9735"
+      ],
+      "color": "#68f442",
+      "capacity": 240610467,
+      "channelCount": 77,
+      "rankCapacity": 143,
+      "rankChannelCount": 134,
+      "rankAge": 3905,
+      "rankGrowth": 1174,
+      "rankAvailability": 131
+    },
+    {
+      "score": 26086956,
+      "alias": "Milky Way",
+      "publicKey": "03a503d8e30f2ff407096d235b5db63b4fcf3f89a653acb6f43d3fc492a7674019",
+      "addresses": [
+        "95.179.216.148:9735",
+        "[2001:19f0:6801:6ec:1::1]:9735",
+        "cvxr5tvyslhf3wf6rovoe3occhbiiykrimwptcflbrm67bh5zo4jtwyd.onion:9735"
+      ],
+      "color": "#ffffff",
+      "capacity": 648502458,
+      "channelCount": 312,
+      "rankCapacity": 70,
+      "rankChannelCount": 27,
+      "rankAge": 1700,
+      "rankGrowth": 9840,
+      "rankAvailability": 95
+    },
+    {
+      "score": 13043478,
+      "alias": "BotaLN",
+      "publicKey": "03ae5e2427a98d54c2509010a78274c87952c3d024ec03ed63d3ff093d4dc7304f",
+      "addresses": [
+        "eddsr2hjb55hxrz56wcmnkki4r6njqe4imouyqdmuef4mf3knpicgcid.onion:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 49734497,
+      "channelCount": 27,
+      "rankCapacity": 467,
+      "rankChannelCount": 440,
+      "rankAge": 4751,
+      "rankGrowth": 5296,
+      "rankAvailability": 1163
+    },
+    {
+      "score": 100000000,
+      "alias": "OpenNode.com",
+      "publicKey": "03abf6f44c355dec0d5aa155bdbdd6e0c8fefe318eff402de65c6eb2e1be55dc3e",
+      "addresses": [
+        "18.221.23.28:9735"
+      ],
+      "color": "#000000",
+      "capacity": 3405777578,
+      "channelCount": 731,
+      "rankCapacity": 6,
+      "rankChannelCount": 6,
+      "rankAge": 406,
+      "rankGrowth": 285,
+      "rankAvailability": 18
+    },
+    {
+      "score": 13043478,
+      "alias": "Hoverfly",
+      "publicKey": "03b2312fa65b43b9ebc6d824af6ac0ad2cee7a490fd3a79af25f7a77bdd6f25c42",
+      "addresses": [
+        "34.245.61.115:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 188355210,
+      "channelCount": 57,
+      "rankCapacity": 170,
+      "rankChannelCount": 189,
+      "rankAge": 2039,
+      "rankGrowth": 282,
+      "rankAvailability": 458
+    },
+    {
+      "score": 8695652,
+      "alias": "RatPoison³",
+      "publicKey": "03ae641aa89c4d2c0034b31bad23a4f80f841d593ddd52f7f35cf7896d0ef8a594",
+      "addresses": [
+        "93.177.73.226:9737"
+      ],
+      "color": "#006400",
+      "capacity": 81580198,
+      "channelCount": 19,
+      "rankCapacity": 327,
+      "rankChannelCount": 634,
+      "rankAge": 3602,
+      "rankGrowth": 4335,
+      "rankAvailability": 4551
+    },
+    {
+      "score": 100000000,
+      "alias": "LIGHTNING",
+      "publicKey": "03baa70886d9200af0ffbd3f9e18d96008331c858456b16e3a9b41e735c6208fef",
+      "addresses": [
+        "45.20.67.1:9735",
+        "[2001:470:8:2e1::43]:9735",
+        "nb7joolyy6itd3mbiccujfukmpvk76hpx55e3hh7v4efv54bvbdpdxyd.onion:9735"
+      ],
+      "color": "#03baa7",
+      "capacity": 2290037833,
+      "channelCount": 154,
+      "rankCapacity": 11,
+      "rankChannelCount": 71,
+      "rankAge": 143,
+      "rankGrowth": 34,
+      "rankAvailability": 239
+    },
+    {
+      "score": 100000000,
+      "alias": "LightningTo.Me",
+      "publicKey": "03bb88ccc444534da7b5b64b4f7b15e1eccb18e102db0e400d4b9cfe93763aa26d",
+      "addresses": [
+        "138.68.14.104:9735"
+      ],
+      "color": "#3dffbe",
+      "capacity": 1627469969,
+      "channelCount": 692,
+      "rankCapacity": 38,
+      "rankChannelCount": 9,
+      "rankAge": 1512,
+      "rankGrowth": 32,
+      "rankAvailability": 15
+    },
+    {
+      "score": 100000000,
+      "alias": "LNBIG.com [lnd-06]",
+      "publicKey": "03bc9337c7a28bb784d67742ebedd30a93bacdf7e4ca16436ef3798000242b2251",
+      "addresses": [
+        "46.229.165.141:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 1799461299,
+      "channelCount": 295,
+      "rankCapacity": 26,
+      "rankChannelCount": 30,
+      "rankAge": 1934,
+      "rankGrowth": 9983,
+      "rankAvailability": 232
+    },
+    {
+      "score": 8695652,
+      "alias": "lndus1.zaphq.io",
+      "publicKey": "03b428ba4b48b524f1fa929203ddc2f0971c2077c2b89bb5b22fd83ed82ac2f7e1",
+      "addresses": [
+        "35.190.130.76:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 1183108860,
+      "channelCount": 61,
+      "rankCapacity": 51,
+      "rankChannelCount": 183,
+      "rankAge": 5884,
+      "rankGrowth": 143,
+      "rankAvailability": 459
+    },
+    {
+      "score": 13043478,
+      "alias": "CoinPayments",
+      "publicKey": "03afa7a8196dbca763ee6f9a34b634a7adc03f154e5d6979fe654db5606b5fb2b1",
+      "addresses": [
+        "167.114.156.87:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 181049954,
+      "channelCount": 44,
+      "rankCapacity": 176,
+      "rankChannelCount": 264,
+      "rankAge": 3971,
+      "rankGrowth": 322,
+      "rankAvailability": 291
+    },
+    {
+      "score": 69565217,
+      "alias": "Syndicate ~ ИetworK",
+      "publicKey": "03c9b47af55d8c13dc4c764e5d0e6a02b7498160f7533f015bf0c107dec00c008b",
+      "addresses": [
+        "tseg62hsdadl56wkyiujbxxzqiuck74izoch4jhfmlhjdcjfttsnpgad.onion:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 824654402,
+      "channelCount": 70,
+      "rankCapacity": 60,
+      "rankChannelCount": 154,
+      "rankAge": 5597,
+      "rankGrowth": 9728,
+      "rankAvailability": 369
+    },
+    {
+      "score": 13043478,
+      "alias": "JF 2.0 [myNode]",
+      "publicKey": "03bde87b103c01db067fe2c7de87b526b95641d9959b573daa107595569a94fe43",
+      "addresses": [
+        "bhi5tlwz5la3ijw5.onion:9735"
+      ],
+      "color": "#ec11aa",
+      "capacity": 133461785,
+      "channelCount": 34,
+      "rankCapacity": 222,
+      "rankChannelCount": 335,
+      "rankAge": 4962,
+      "rankGrowth": 344,
+      "rankAvailability": 401
+    },
+    {
+      "score": 17391304,
+      "alias": "ln1.1sat.org",
+      "publicKey": "03c2b5e97173e2ff7baea106a34a165e0213b6c5148441ea97785b35a78a506299",
+      "addresses": [
+        "109.201.142.116:9735"
+      ],
+      "color": "#ff69b4",
+      "capacity": 293898336,
+      "channelCount": 45,
+      "rankCapacity": 116,
+      "rankChannelCount": 260,
+      "rankAge": 167,
+      "rankGrowth": 1330,
+      "rankAvailability": 265
+    },
+    {
+      "score": 8695652,
+      "alias": "Bitcoin Lightning Networkman",
+      "publicKey": "03c1a8ccc5c83b37059a3efbb72e633c0897172f2550475b93bdc14b5ca243a0d1",
+      "addresses": [
+        "un4qjzs7yfpbrlwyq7s4v7kozinigxn7ynm4jqvmbygdn42iyf4zgqyd.onion:9735"
+      ],
+      "color": "#fe871b",
+      "capacity": 82076624,
+      "channelCount": 33,
+      "rankCapacity": 323,
+      "rankChannelCount": 347,
+      "rankAge": 5473,
+      "rankGrowth": 327,
+      "rankAvailability": 249
+    },
+    {
+      "score": 17391304,
+      "alias": "lightning-network.ro",
+      "publicKey": "03c492f46d8e0a6256bb9c5c42f2aed24717f70a3f39e0961419dee511688e3110",
+      "addresses": [
+        "194.5.250.39:9735"
+      ],
+      "color": "#03c492",
+      "capacity": 51250796,
+      "channelCount": 25,
+      "rankCapacity": 452,
+      "rankChannelCount": 471,
+      "rankAge": 2426,
+      "rankGrowth": 9651,
+      "rankAvailability": 5604
+    },
+    {
+      "score": 13043478,
+      "alias": "tippin.me",
+      "publicKey": "03c2abfa93eacec04721c019644584424aab2ba4dff3ac9bdab4e9c97007491dda",
+      "addresses": [
+        "157.245.68.47:9735"
+      ],
+      "color": "#ff4681",
+      "capacity": 1033952780,
+      "channelCount": 582,
+      "rankCapacity": 56,
+      "rankChannelCount": 10,
+      "rankAge": 1957,
+      "rankGrowth": 56,
+      "rankAvailability": 37
+    },
+    {
+      "score": 8695652,
+      "alias": "ln.felixweis.com",
+      "publicKey": "03beddc8adbf7d56a7da15cdaf95d97b24d07088c3571b421c0e6f9d551a210342",
+      "addresses": [
+        "148.251.40.218:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 157600176,
+      "channelCount": 53,
+      "rankCapacity": 196,
+      "rankChannelCount": 209,
+      "rankAge": 193,
+      "rankGrowth": 1356,
+      "rankAvailability": 1518
+    },
+    {
+      "score": 21739130,
+      "alias": "mainnet.lightningconductor.net",
+      "publicKey": "03c436af41160a355fc1ed230a64f6a64bcbd2ae50f12171d1318f9782602be601",
+      "addresses": [
+        "18.191.89.219:9735"
+      ],
+      "color": "#49daaa",
+      "capacity": 395624348,
+      "channelCount": 413,
+      "rankCapacity": 93,
+      "rankChannelCount": 16,
+      "rankAge": 64,
+      "rankGrowth": 26,
+      "rankAvailability": 34
+    },
+    {
+      "score": 8695652,
+      "alias": "deadcatlambo",
+      "publicKey": "03cbc091a70ca17802ac4cbaa92754338e7582344702f2ddd44b6a9543fbb587b0",
+      "addresses": [
+        "151.62.230.155:9735"
+      ],
+      "color": "#16a085",
+      "capacity": 19886540,
+      "channelCount": 12,
+      "rankCapacity": 843,
+      "rankChannelCount": 1060,
+      "rankAge": 4761,
+      "rankGrowth": 5305,
+      "rankAvailability": 2984
+    },
+    {
+      "score": 8695652,
+      "alias": "♥",
+      "publicKey": "03cfea6e01d8735d29863d0ecc0f637e5da25c3afb1894e6cb1c25cc9c52dbceef",
+      "addresses": [
+        "212.51.156.154:9735"
+      ],
+      "color": "#fe1414",
+      "capacity": 134708543,
+      "channelCount": 17,
+      "rankCapacity": 221,
+      "rankChannelCount": 703,
+      "rankAge": 82,
+      "rankGrowth": 374,
+      "rankAvailability": 139
+    },
+    {
+      "score": 21739130,
+      "alias": "GoldmanSats",
+      "publicKey": "03d344f66ed1a1a49d32c4eedd36b4a3bf1b75299e957b022b5a7160a94c06fc1b",
+      "addresses": [
+        "64.180.75.232:9735",
+        "b5n5yp577mh23flg5nu73kplv4wuzekd2rs2doqdjr4s7qvxct3gmkid.onion:9735"
+      ],
+      "color": "#ebc034",
+      "capacity": 161276703,
+      "channelCount": 39,
+      "rankCapacity": 190,
+      "rankChannelCount": 291,
+      "rankAge": 8938,
+      "rankGrowth": 545,
+      "rankAvailability": 736
+    },
+    {
+      "score": 43478260,
+      "alias": "HashQuark02",
+      "publicKey": "03d28ac32e13a26bc2bc4c2e24adde07d8db2c27557de8047767e41537304bc64d",
+      "addresses": [
+        "103.72.146.33:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 472163533,
+      "channelCount": 89,
+      "rankCapacity": 86,
+      "rankChannelCount": 117,
+      "rankAge": 5866,
+      "rankGrowth": 9342,
+      "rankAvailability": 404
+    },
+    {
+      "score": 8695652,
+      "alias": "BTCPortal",
+      "publicKey": "03cc5ead9a19902dbb7cf0920e819f383f4ad0a916a6ea4d59f1bbb0660503bdde",
+      "addresses": [
+        "6ik65y3oelhx2magtpyf54wss2egv7t4iv6d4omj3c22z2gub5dlteqd.onion:9735"
+      ],
+      "color": "#68f442",
+      "capacity": 46800000,
+      "channelCount": 17,
+      "rankCapacity": 489,
+      "rankChannelCount": 722,
+      "rankAge": 5624,
+      "rankGrowth": 675,
+      "rankAvailability": 806
+    },
+    {
+      "score": 73913043,
+      "alias": "yalls.org yalls-tor",
+      "publicKey": "03d06758583bb5154774a6eb221b1276c9e82d65bbaceca806d90e20c108f4b1c7",
+      "addresses": [
+        "gwdllz5g7vky2q4gr45zguvoajzf33czreca3a3exosftx72ekppkuqd.onion:9735"
+      ],
+      "color": "#f8e71c",
+      "capacity": 2551323281,
+      "channelCount": 147,
+      "rankCapacity": 9,
+      "rankChannelCount": 75,
+      "rankAge": 3257,
+      "rankGrowth": 169,
+      "rankAvailability": 108
+    },
+    {
+      "score": 100000000,
+      "alias": "bfx-lnd1",
+      "publicKey": "03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6",
+      "addresses": [
+        "34.65.85.39:9745"
+      ],
+      "color": "#16b157",
+      "capacity": 9944379026,
+      "channelCount": 294,
+      "rankCapacity": 2,
+      "rankChannelCount": 31,
+      "rankAge": 4682,
+      "rankGrowth": 7,
+      "rankAvailability": 46
+    },
+    {
+      "score": 60869565,
+      "alias": "LNBIG.com [lnd-02]",
+      "publicKey": "03d37fca0656558de4fd86bbe490a38d84a46228e7ec1361801f54f9437a18d618",
+      "addresses": [
+        "46.229.165.138:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 1997711210,
+      "channelCount": 317,
+      "rankCapacity": 19,
+      "rankChannelCount": 25,
+      "rankAge": 1923,
+      "rankGrowth": 9999,
+      "rankAvailability": 202
+    },
+    {
+      "score": 13043478,
+      "alias": "SetantaSatsIreland",
+      "publicKey": "03d594b524cb41aa5a0918084da740f6b32212117e2ad31dfbefbb5750cb885b4a",
+      "addresses": [
+        "aznpmjxvdcgtzlb6tbjyxpopgrz3iphwwfgyh7b3izztap3llv4dyqyd.onion:9735"
+      ],
+      "color": "#68f442",
+      "capacity": 106598610,
+      "channelCount": 28,
+      "rankCapacity": 263,
+      "rankChannelCount": 423,
+      "rankAge": 5817,
+      "rankGrowth": 584,
+      "rankAvailability": 1180
+    },
+    {
+      "score": 13043478,
+      "alias": "Jubilee",
+      "publicKey": "03d67f36c4f81789e2fe425028bacc96b199813eae426c517f589a45f1136c1fe5",
+      "addresses": [
+        "212.96.34.143:9735",
+        "yqygrtvwihl3exb2.onion:9735",
+        "ihhsjdncang7ve2rvhuunvy45bxvmh2qwz3vh7mohbouizd36ywnxeid.onion:9735"
+      ],
+      "color": "#dc42f4",
+      "capacity": 104210724,
+      "channelCount": 31,
+      "rankCapacity": 269,
+      "rankChannelCount": 363,
+      "rankAge": 23,
+      "rankGrowth": 500,
+      "rankAvailability": 5380
+    },
+    {
+      "score": 13043478,
+      "alias": "LNJunkies",
+      "publicKey": "03d3cc1f07917c5d5e5067c8a459eff979d53a2d0a4e27e30569bcbb3d8b752c24",
+      "addresses": [
+        "172.81.177.51:9735",
+        "667is2u63zz4pnvuq4ztp3i6vpz2eu6g3mrw7xqetouiowfcwxupbaid.onion:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 129449176,
+      "channelCount": 55,
+      "rankCapacity": 228,
+      "rankChannelCount": 203,
+      "rankAge": 2483,
+      "rankGrowth": 1136,
+      "rankAvailability": 484
+    },
+    {
+      "score": 17391304,
+      "alias": "tigertiger",
+      "publicKey": "03dd15edf1f0adf9cfd2a79654e600e96b39ef4a2fa9e875a5377ba4da953a7f37",
+      "addresses": [
+        "h24onu7yxbg5oeoczhhh3ziwsxpaejpapsdczfslt6gdxamakj3ze4qd.onion:9735"
+      ],
+      "color": "#68f442",
+      "capacity": 51010000,
+      "channelCount": 20,
+      "rankCapacity": 454,
+      "rankChannelCount": 593,
+      "rankAge": 4415,
+      "rankGrowth": 530,
+      "rankAvailability": 1538
+    },
+    {
+      "score": 26086956,
+      "alias": "LNBIG.com [lnd-07]",
+      "publicKey": "03da1c27ca77872ac5b3e568af30673e599a47a5e4497f85c7b5da42048807b3ed",
+      "addresses": [
+        "46.229.165.142:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 1408707314,
+      "channelCount": 267,
+      "rankCapacity": 50,
+      "rankChannelCount": 42,
+      "rankAge": 1933,
+      "rankGrowth": 10000,
+      "rankAvailability": 405
+    },
+    {
+      "score": 8695652,
+      "alias": "03e1787e353340818467",
+      "publicKey": "03e1787e3533408184671ee5a4db1a1c00d4be33b81008014489eb2e33d2646c08",
+      "addresses": [
+        "tjmrhryoriztp3eguiok2a62alqiptf7lwvhpzp2atmz5u7nqe6eyaid.onion:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 43310833,
+      "channelCount": 23,
+      "rankCapacity": 521,
+      "rankChannelCount": 522,
+      "rankAge": 8458,
+      "rankGrowth": 87,
+      "rankAvailability": 293
+    },
+    {
+      "score": 13043478,
+      "alias": "Octopus Syndicate",
+      "publicKey": "03da6e100d2a41da4deb62448d641812340bda020f16fc8312825cdd7c00cdb7d8",
+      "addresses": [
+        "g3k5tvlq4bzjkbv3zcecallufiyv24fo4q7lknr5xbzkd4wtph53y4ad.onion:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 70867240,
+      "channelCount": 21,
+      "rankCapacity": 352,
+      "rankChannelCount": 575,
+      "rankAge": 8921,
+      "rankGrowth": 9563,
+      "rankAvailability": 266
+    },
+    {
+      "score": 13043478,
+      "alias": "Sphinxtagram",
+      "publicKey": "03e3fc33ad80e7a1ee16385bf9b5cca84e247a29aa9ffd7c7b5d8992a232811e05",
+      "addresses": [
+        "2awy3px4fhopd67yl23srwx4f7u4wmf6zxegyjvmxgsgbrthnrcgagyd.onion:9735"
+      ],
+      "color": "#68f442",
+      "capacity": 53768058,
+      "channelCount": 27,
+      "rankCapacity": 434,
+      "rankChannelCount": 443,
+      "rankAge": 5608,
+      "rankGrowth": 241,
+      "rankAvailability": 251
+    },
+    {
+      "score": 13043478,
+      "alias": "03da97ca927ea3bfde33",
+      "publicKey": "03da97ca927ea3bfde331d5bb3ea150073425a00be49930b1dc9271cf1a15f160a",
+      "addresses": [
+        "iygkur3evi4rrhxmtc4a3gfvmnkvsryjkrtz7thnj3exhuegkgd3rlad.onion:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 57875217,
+      "channelCount": 16,
+      "rankCapacity": 406,
+      "rankChannelCount": 772,
+      "rankAge": 6486,
+      "rankGrowth": 6738,
+      "rankAvailability": 1017
+    },
+    {
+      "score": 21739130,
+      "alias": "LNBIG.com [lnd-41]",
+      "publicKey": "03dab87ff8635982815c4567eb58af48f9944d11c56beb12b91e1049aaea06e187",
+      "addresses": [
+        "213.174.156.85:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 1726747054,
+      "channelCount": 259,
+      "rankCapacity": 35,
+      "rankChannelCount": 43,
+      "rankAge": 1945,
+      "rankGrowth": 9973,
+      "rankAvailability": 331
+    },
+    {
+      "score": 47826086,
+      "alias": "LNBIG.com [lnd-31]",
+      "publicKey": "03e5ea100e6b1ef3959f79627cb575606b19071235c48b3e7f9808ebcd6d12e87d",
+      "addresses": [
+        "213.174.156.75:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 1589028386,
+      "channelCount": 232,
+      "rankCapacity": 41,
+      "rankChannelCount": 54,
+      "rankAge": 1936,
+      "rankGrowth": 9991,
+      "rankAvailability": 349
+    },
+    {
+      "score": 21739130,
+      "alias": "CryptoChill",
+      "publicKey": "03df3f0a2fd6bea5429a596461ce784c922b2981ada1af89cfefcd9ccfb16c16a7",
+      "addresses": [
+        "45.55.127.67:9735"
+      ],
+      "color": "#597af6",
+      "capacity": 138785456,
+      "channelCount": 92,
+      "rankCapacity": 215,
+      "rankChannelCount": 111,
+      "rankAge": 2732,
+      "rankGrowth": 339,
+      "rankAvailability": 524
+    },
+    {
+      "score": 34782608,
+      "alias": "ln1.generalbytes.com",
+      "publicKey": "03e35a27fa8bfad8675aeb9e96530e7b00e6fa03b571d235f6b4e68cfb4ef9097c",
+      "addresses": [
+        "67.207.92.63:9736"
+      ],
+      "color": "#1f57a1",
+      "capacity": 405822401,
+      "channelCount": 53,
+      "rankCapacity": 91,
+      "rankChannelCount": 213,
+      "rankAge": 4335,
+      "rankGrowth": 352,
+      "rankAvailability": 4565
+    },
+    {
+      "score": 8695652,
+      "alias": "FasterThanLight",
+      "publicKey": "03de7f5fa97bc87f048e977533fdc0484bf4e0a5b5ca6e55f7baf32b533cbac3f7",
+      "addresses": [
+        "157.230.78.74:9735"
+      ],
+      "color": "#3333ff",
+      "capacity": 76673574,
+      "channelCount": 25,
+      "rankCapacity": 338,
+      "rankChannelCount": 475,
+      "rankAge": 3564,
+      "rankGrowth": 4303,
+      "rankAvailability": 5619
+    },
+    {
+      "score": 17391304,
+      "alias": "Electrophorus [W_C_B]",
+      "publicKey": "03ee180e8ee07f1f9c9987d98b5d5decf6bad7d058bdd8be3ad97c8e0dd2cdc7ba",
+      "addresses": [
+        "85.214.212.104:9735"
+      ],
+      "color": "#ff0000",
+      "capacity": 272695848,
+      "channelCount": 95,
+      "rankCapacity": 124,
+      "rankChannelCount": 102,
+      "rankAge": 107,
+      "rankGrowth": 1274,
+      "rankAvailability": 1545
+    },
+    {
+      "score": 8695652,
+      "alias": "ln1.zebedee.network [ZEBEDEE]",
+      "publicKey": "03d6b14390cd178d670aa2d57c93d9519feaae7d1e34264d8bbb7932d47b75a50d",
+      "addresses": [
+        "3.210.176.128:9735"
+      ],
+      "color": "#141414",
+      "capacity": 368676938,
+      "channelCount": 88,
+      "rankCapacity": 100,
+      "rankChannelCount": 118,
+      "rankAge": 4839,
+      "rankGrowth": 153,
+      "rankAvailability": 102
+    },
+    {
+      "score": 30434782,
+      "alias": "DigitalEverywareNode⚡",
+      "publicKey": "03eefcc2c803a4aad64d92a5633d8c6f75d6b72827d099d9cb31a82a0615dcc767",
+      "addresses": [
+        "70.173.100.60:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 356485731,
+      "channelCount": 38,
+      "rankCapacity": 102,
+      "rankChannelCount": 297,
+      "rankAge": 6675,
+      "rankGrowth": 58,
+      "rankAvailability": 741
+    },
+    {
+      "score": 8695652,
+      "alias": "ln.rene-pickhardt.de",
+      "publicKey": "03efccf2c383d7bf340da9a3f02e2c23104a0e4fe8ac1a880c8e2dc92fbdacd9df",
+      "addresses": [
+        "144.76.235.20:9735"
+      ],
+      "color": "#03efcc",
+      "capacity": 97555034,
+      "channelCount": 37,
+      "rankCapacity": 280,
+      "rankChannelCount": 301,
+      "rankAge": 1643,
+      "rankGrowth": 9815,
+      "rankAvailability": 4467
+    },
+    {
+      "score": 17391304,
+      "alias": "OSHI",
+      "publicKey": "03f15fc38f36e88bf1d799994d38e10902318287a53eb413b5e8ab0046d863bace",
+      "addresses": [
+        "feaimtxdwifnmfof.onion:9735"
+      ],
+      "color": "#ff0066",
+      "capacity": 122041528,
+      "channelCount": 52,
+      "rankCapacity": 244,
+      "rankChannelCount": 223,
+      "rankAge": 5189,
+      "rankGrowth": 5653,
+      "rankAvailability": 560
+    },
+    {
+      "score": 8695652,
+      "alias": "BankOfYoko",
+      "publicKey": "03f9dc7982e336c1d4115459d59f40589db9db1a70adf741ed96584b79f60612cb",
+      "addresses": [
+        "cspybvvm3oqvxrzvacpe4p6ineqaqhmh6ipxy3dnntsasn3csq7rafid.onion:9735"
+      ],
+      "color": "#68f442",
+      "capacity": 126853833,
+      "channelCount": 31,
+      "rankCapacity": 232,
+      "rankChannelCount": 377,
+      "rankAge": 5415,
+      "rankGrowth": 9338,
+      "rankAvailability": 435
+    },
+    {
+      "score": 8695652,
+      "alias": "BANKOBALLGAME",
+      "publicKey": "03f1db913dccc3330664723def2a84295d8a067d5ad0605bed68023f990ff40325",
+      "addresses": [
+        "ohbjf75fumosxjtwnjdjkgbmiynepgpgekzomtls6nj2iydq2nmzpeyd.onion:9735"
+      ],
+      "color": "#005687",
+      "capacity": 31067768,
+      "channelCount": 16,
+      "rankCapacity": 631,
+      "rankChannelCount": 782,
+      "rankAge": 8803,
+      "rankGrowth": 630,
+      "rankAvailability": 132
+    },
+    {
+      "score": 8695652,
+      "alias": "windranger",
+      "publicKey": "03fafcd7745aa24e662ca22de88b1d208865dd46496cbbdc9115594a2d5c2c3b7c",
+      "addresses": [
+        "57gm3c3oqzpp55pnzfjz2gtzqlovxau5fza5szhdu2cpnpkk4pph3nqd.onion:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 60088762,
+      "channelCount": 18,
+      "rankCapacity": 392,
+      "rankChannelCount": 672,
+      "rankAge": 2541,
+      "rankGrowth": 641,
+      "rankAvailability": 1555
+    },
+    {
+      "score": 8695652,
+      "alias": "Josimbalnd",
+      "publicKey": "03fc0cd509947fae3db764b00c9892e636f19c90a345517814984660d9b39d0f09",
+      "addresses": [
+        "btnrgwr4libq7uitlsqoqcf4gwgvk5eqe4vzsgofofwfuf6gdqu7niyd.onion:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 40838477,
+      "channelCount": 16,
+      "rankCapacity": 536,
+      "rankChannelCount": 769,
+      "rankAge": 5904,
+      "rankGrowth": 563,
+      "rankAvailability": 3074
+    },
+    {
+      "score": 91304347,
+      "alias": "LNBIG.com [lnd-17]",
+      "publicKey": "03fb822818be083e0a954db85257a2911a3d55458b8c1ea4124b157e865a836d12",
+      "addresses": [
+        "46.229.165.133:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 1880617028,
+      "channelCount": 309,
+      "rankCapacity": 22,
+      "rankChannelCount": 28,
+      "rankAge": 1929,
+      "rankGrowth": 9993,
+      "rankAvailability": 268
+    },
+    {
+      "score": 13043478,
+      "alias": "⚡TheBebop⚡",
+      "publicKey": "03fbe1c1baedbc99b2642ae524d9c2a6f12b771a3ab91e0f56ca6efc6f7f7d53b6",
+      "addresses": [
+        "0.0.0.0:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 142189429,
+      "channelCount": 33,
+      "rankCapacity": 211,
+      "rankChannelCount": 341,
+      "rankAge": 1540,
+      "rankGrowth": 2624,
+      "rankAvailability": 2104
+    },
+    {
+      "score": 13043478,
+      "alias": "ln02.bixin.com",
+      "publicKey": "03fd105d7df6595d5a36f016b8ff9ca74e5474e29593c4bba85f4d7ad4663bc5ee",
+      "addresses": [
+        "47.242.216.51:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 195751530,
+      "channelCount": 32,
+      "rankCapacity": 166,
+      "rankChannelCount": 357,
+      "rankAge": 3273,
+      "rankGrowth": 252,
+      "rankAvailability": 614
+    },
+    {
+      "score": 30434782,
+      "alias": "LNBIG.com [lnd-27]",
+      "publicKey": "03fce165537aea120bffe8505876b44d5119354f825b3eac329b761fc5636bf334",
+      "addresses": [
+        "213.174.156.71:9735"
+      ],
+      "color": "#3399ff",
+      "capacity": 1796664449,
+      "channelCount": 288,
+      "rankCapacity": 28,
+      "rankChannelCount": 33,
+      "rankAge": 1930,
+      "rankGrowth": 9966,
+      "rankAvailability": 269
+    }
+  ]
+}

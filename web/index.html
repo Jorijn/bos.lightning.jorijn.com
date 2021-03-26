@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>BOS score list by @Jorijn</title>
+    <meta name="description" content="The Lightning BOS list enriched with 1ML metrics">
+    <meta itemprop="name" content="BOS score list by @Jorijn">
+    <meta itemprop="description" content="The Lightning BOS list enriched with 1ML metrics">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="BOS score list by @Jorijn">
+    <meta name="twitter:description" content="The Lightning BOS list enriched with 1ML metrics">
+    <meta name="twitter:site" content="@jorijn">
+    <meta name="og:title" content="BOS score list by @Jorijn">
+    <meta name="og:description" content="The Lightning BOS list enriched with 1ML metrics">
+    <meta name="og:url" content="https://bos.lightning.jorijn.com/">
+    <meta name="og:site_name" content="Lightning BOS enriched">
+    <meta name="og:type" content="website">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.3/css/bootstrap.min.css"
+          integrity="sha512-oc9+XSs1H243/FRN9Rw62Fn8EtxjEYWHXRvjS43YtueEewbS6ObfXcJNyohjHqVKFPoXXUxwc+q1K7Dee6vv9g=="
+          crossorigin="anonymous"/>
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.21/css/dataTables.bootstrap4.min.css"
+          integrity="sha512-PT0RvABaDhDQugEbpNMwgYBCnGCiTZMh9yOzUsJHDgl/dMhD9yjHAwoumnUk3JydV3QTcIkNDuN40CJxik5+WQ=="
+          crossorigin="anonymous"/>
+
+    <script src="https://krill.jorijn.com/script.js" data-site="YBUNIIWK" defer></script>
+
+    <style>
+        body {
+            padding: 3rem;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Lightning BOS list enriched with 1ML data</h1>
+<p>By <a target="_blank" href="https://jorijn.com/">Jorijn</a>. Sources:</p>
+<ul>
+    <li><a href="https://nodes.lightning.computer/availability/v1/btc.json">https://nodes.lightning.computer/availability/v1/btc.json</a>
+    </li>
+    <li>https://1ml.com/node/[pubkey]/json</li>
+</ul>
+<p>JSON format available at: <a href="https://bos.lightning.jorijn.com/data/export.json">https://bos.lightning.jorijn.com/data/export.json</a></p>
+
+<hr>
+
+<table id="bos_table" class="table table-striped">
+    <thead>
+    <tr>
+        <th>Score</th>
+        <th>Alias</th>
+        <th>Public Key</th>
+        <th>Color</th>
+        <th>Capacity</th>
+        <th>Channel Count</th>
+        <th>Rank: Capacity</th>
+        <th>Rank: Channel Count</th>
+        <th>Rank: Age</th>
+        <th>Rank: Growth</th>
+        <th>Rank: Availability</th>
+    </tr>
+    </thead>
+    <tfoot>
+    <tr>
+        <th>Score</th>
+        <th>Alias</th>
+        <th>Public Key</th>
+        <th>Color</th>
+        <th>Capacity</th>
+        <th>Channel Count</th>
+        <th>Rank: Capacity</th>
+        <th>Rank: Channel Count</th>
+        <th>Rank: Age</th>
+        <th>Rank: Growth</th>
+        <th>Rank: Availability</th>
+    </tr>
+    </tfoot>
+
+</table>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"
+        integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg=="
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.3/js/bootstrap.min.js"
+        integrity="sha512-8qmis31OQi6hIRgvkht0s6mCOittjMa9GMqtK9hes5iEQBQE/Ca6yGE5FsW36vyipGoWQswBj/QBm2JR086Rkw=="
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.21/js/jquery.dataTables.min.js"
+        integrity="sha512-BkpSL20WETFylMrcirBahHfSnY++H2O1W+UnEEO4yNIl+jI2+zowyoGJpbtk6bx97fBXf++WJHSSK2MV4ghPcg=="
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.21/js/dataTables.bootstrap4.min.js"
+        integrity="sha512-OQlawZneA7zzfI6B1n1tjUuo3C5mtYuAWpQdg+iI9mkDoo7iFzTqnQHf+K5ThOWNJ9AbXL4+ZDwH7ykySPQc+A=="
+        crossorigin="anonymous"></script>
+
+<script>
+  jQuery(document).ready(function() {
+    jQuery('#bos_table').DataTable({
+      'ajax': 'data/export.json',
+      'processing': true,
+      'responsive': true,
+      'deferRender': true,
+      'columns': [
+        {'data': 'score', render: $.fn.dataTable.render.number(',', '.', 0, '')},
+        {'data': 'alias'},
+        {'data': 'publicKey'},
+        {
+          'data': 'color', render: function(data, type, row) {
+            return '<span style="display: inline-block; width: 10px; height: 10px; background-color: ' + data + '"></span> ' + data;
+          },
+        },
+        {'data': 'capacity', render: $.fn.dataTable.render.number(',', '.', 0, '')},
+        {'data': 'channelCount', render: $.fn.dataTable.render.number(',', '.', 0, '')},
+        {'data': 'rankCapacity', render: $.fn.dataTable.render.number(',', '.', 0, '')},
+        {'data': 'rankChannelCount', render: $.fn.dataTable.render.number(',', '.', 0, '')},
+        {'data': 'rankAge', render: $.fn.dataTable.render.number(',', '.', 0, '')},
+        {'data': 'rankGrowth', render: $.fn.dataTable.render.number(',', '.', 0, '')},
+        {'data': 'rankAvailability', render: $.fn.dataTable.render.number(',', '.', 0, '')},
+      ],
+      'language': {
+        'decimal': ',',
+        'thousands': '.',
+      },
+      'lengthMenu': [[20, 50, 100, -1], [20, 50, 100, 'All']],
+      'order': [[0, 'desc']],
+    });
+  });
+</script>
+</body>
+</html>
